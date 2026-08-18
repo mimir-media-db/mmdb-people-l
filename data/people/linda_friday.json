@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linda_friday",
+  "name": "Linda Friday",
+  "external_ids": {
+    "wikidata": "Q437603",
+    "imdb": "nm1089747"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

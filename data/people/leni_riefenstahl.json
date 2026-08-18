@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leni_riefenstahl",
+  "name": "Leni Riefenstahl",
+  "external_ids": {
+    "wikidata": "Q55415",
+    "imdb": "nm0726166"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1902,
+  "death_year": 2003
+}

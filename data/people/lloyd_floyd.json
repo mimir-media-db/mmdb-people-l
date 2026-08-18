@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_lloyd_floyd",
+  "name": "Lloyd Floyd",
+  "external_ids": {
+    "wikidata": "Q6662421",
+    "imdb": "nm1721014"
+  },
+  "last_updated": "2026-08-18"
+}

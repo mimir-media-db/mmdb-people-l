@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_benward",
+  "name": "Luke Benward",
+  "external_ids": {
+    "wikidata": "Q331766",
+    "imdb": "nm0972851"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1995
+}

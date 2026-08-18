@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lisa",
+  "name": "Lisa",
+  "external_ids": {
+    "wikidata": "Q140926168",
+    "imdb": "nm1546624"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucy_harrison",
+  "name": "Lucy Harrison",
+  "external_ids": {
+    "wikidata": "Q3266008",
+    "imdb": "nm0365725"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
