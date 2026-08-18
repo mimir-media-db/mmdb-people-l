@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_moncada",
+  "name": "Luis Moncada",
+  "external_ids": {
+    "wikidata": "Q4301783",
+    "imdb": "nm1616991"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

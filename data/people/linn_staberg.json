@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linn_staberg",
+  "name": "Linn Staberg",
+  "external_ids": {
+    "wikidata": "Q114774831",
+    "imdb": "nm1940146"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

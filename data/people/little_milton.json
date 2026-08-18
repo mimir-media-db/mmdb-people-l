@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_little_milton",
+  "name": "Little Milton",
+  "external_ids": {
+    "wikidata": "Q153802",
+    "imdb": "nm0590688"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933,
+  "death_year": 2005
+}

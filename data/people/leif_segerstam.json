@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leif_segerstam",
+  "name": "Leif Segerstam",
+  "external_ids": {
+    "wikidata": "Q381726",
+    "imdb": "nm0782016"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2024
+}

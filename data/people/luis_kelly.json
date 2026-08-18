@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_kelly",
+  "name": "Luis Kelly",
+  "external_ids": {
+    "wikidata": "Q5983727",
+    "imdb": "nm0446611"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

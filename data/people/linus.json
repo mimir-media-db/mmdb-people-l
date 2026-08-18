@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linus",
+  "name": "Linus",
+  "external_ids": {
+    "wikidata": "Q3833128",
+    "imdb": "nm1004605"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

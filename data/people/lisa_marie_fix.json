@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lisa_marie_fix",
+  "name": "Lisa Marie Fix",
+  "external_ids": {
+    "wikidata": "Q29000861",
+    "imdb": "nm2169392"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}
