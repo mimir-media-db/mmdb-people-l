@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linus_nord",
+  "name": "Linus Nord",
+  "external_ids": {
+    "wikidata": "Q6014068",
+    "imdb": "nm0634935"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_charles",
+  "name": "Larry Charles",
+  "external_ids": {
+    "wikidata": "Q722115",
+    "imdb": "nm0153078"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_doyle",
+  "name": "Larry Doyle",
+  "external_ids": {
+    "wikidata": "Q6490224",
+    "imdb": "nm0236421"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

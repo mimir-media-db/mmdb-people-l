@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_leighton_meester",
+  "name": "Leighton Meester",
+  "external_ids": {
+    "wikidata": "Q199931",
+    "imdb": "nm1015262"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

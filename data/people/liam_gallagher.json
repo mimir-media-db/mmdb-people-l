@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liam_gallagher",
+  "name": "Liam Gallagher",
+  "external_ids": {
+    "wikidata": "Q216708",
+    "imdb": "nm0302427"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}
