@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lesley_manville",
+  "name": "Lesley Manville",
+  "external_ids": {
+    "wikidata": "Q444410",
+    "imdb": "nm0544334"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

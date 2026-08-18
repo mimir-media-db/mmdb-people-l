@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ludi_boeken",
+  "name": "Ludi Boeken",
+  "external_ids": {
+    "wikidata": "Q13538517",
+    "imdb": "nm0091253"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

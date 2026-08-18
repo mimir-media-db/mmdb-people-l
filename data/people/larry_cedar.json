@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_cedar",
+  "name": "Larry Cedar",
+  "external_ids": {
+    "wikidata": "Q210792",
+    "imdb": "nm0147738"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

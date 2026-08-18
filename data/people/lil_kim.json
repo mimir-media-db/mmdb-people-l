@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lil_kim",
+  "name": "Lil' Kim",
+  "external_ids": {
+    "wikidata": "Q229379",
+    "imdb": "nm0428591"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

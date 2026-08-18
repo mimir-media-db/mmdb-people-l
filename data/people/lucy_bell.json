@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucy_bell",
+  "name": "Lucy Bell",
+  "external_ids": {
+    "wikidata": "Q3265999",
+    "imdb": "nm0068364"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

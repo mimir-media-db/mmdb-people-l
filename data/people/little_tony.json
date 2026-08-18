@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_little_tony",
+  "name": "Little Tony",
+  "external_ids": {
+    "wikidata": "Q982072",
+    "imdb": "nm0514510"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2013
+}

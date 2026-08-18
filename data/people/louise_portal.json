@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_louise_portal",
+  "name": "Louise Portal",
+  "external_ids": {
+    "wikidata": "Q510227",
+    "imdb": "nm0691925"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

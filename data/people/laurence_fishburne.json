@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_laurence_fishburne",
+  "name": "Laurence Fishburne",
+  "external_ids": {
+    "wikidata": "Q193048",
+    "imdb": "nm0000401"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

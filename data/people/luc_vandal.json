@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luc_vandal",
+  "name": "Luc Vandal",
+  "external_ids": {
+    "wikidata": "Q3264935",
+    "imdb": "nm0888605"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
