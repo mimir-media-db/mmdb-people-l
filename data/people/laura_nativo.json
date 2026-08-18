@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_laura_nativo",
+  "name": "Laura Nativo",
+  "external_ids": {
+    "wikidata": "Q1807801",
+    "imdb": "nm1137466"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

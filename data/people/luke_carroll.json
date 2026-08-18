@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_carroll",
+  "name": "Luke Carroll",
+  "external_ids": {
+    "wikidata": "Q6701865",
+    "imdb": "nm0140909"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}
