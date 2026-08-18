@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_manso",
+  "name": "Luis Manso",
+  "external_ids": {
+    "wikidata": "Q22115139",
+    "imdb": "nm0543896"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1961,
+  "death_year": null
+}

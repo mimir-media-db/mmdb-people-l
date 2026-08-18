@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lily_tomlin",
+  "name": "Lily Tomlin",
+  "external_ids": {
+    "wikidata": "Q229271",
+    "imdb": "nm0005499"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1939,
+  "death_year": null
+}

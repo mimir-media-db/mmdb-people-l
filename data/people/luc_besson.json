@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_luc_besson",
+  "name": "Luc Besson",
+  "external_ids": {
+    "wikidata": "Q484779",
+    "imdb": "nm0000108"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1959,
+  "death_year": null
+}
