@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_miller",
+  "name": "Larry Miller",
+  "external_ids": {
+    "wikidata": "Q943028",
+    "imdb": "nm0588777"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leslie_nielsen",
+  "name": "Leslie Nielsen",
+  "external_ids": {
+    "wikidata": "Q82786",
+    "imdb": "nm0000558"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2010
+}

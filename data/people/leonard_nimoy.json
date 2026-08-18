@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leonard_nimoy",
+  "name": "Leonard Nimoy",
+  "external_ids": {
+    "wikidata": "Q16345",
+    "imdb": "nm0000559"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2015
+}

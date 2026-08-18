@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linn_skaber",
+  "name": "Linn Skåber",
+  "external_ids": {
+    "wikidata": "Q4580829",
+    "imdb": "nm0805077"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

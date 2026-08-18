@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lena_endre",
+  "name": "Lena Endre",
+  "external_ids": {
+    "wikidata": "Q270559",
+    "imdb": "nm0256890"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_nieto",
+  "name": "Luis Nieto",
+  "external_ids": {
+    "wikidata": "Q42389434",
+    "imdb": "nm1004771"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

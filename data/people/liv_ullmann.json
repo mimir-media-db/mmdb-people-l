@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liv_ullmann",
+  "name": "Liv Ullmann",
+  "external_ids": {
+    "wikidata": "Q191064",
+    "imdb": "nm0880521"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

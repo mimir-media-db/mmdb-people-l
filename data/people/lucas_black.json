@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucas_black",
+  "name": "Lucas Black",
+  "external_ids": {
+    "wikidata": "Q359491",
+    "imdb": "nm0085407"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

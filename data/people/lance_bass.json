@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lance_bass",
+  "name": "Lance Bass",
+  "external_ids": {
+    "wikidata": "Q443120",
+    "imdb": "nm0004726"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

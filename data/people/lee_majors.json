@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lee_majors",
+  "name": "Lee Majors",
+  "external_ids": {
+    "wikidata": "Q454088",
+    "imdb": "nm0000516"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}
