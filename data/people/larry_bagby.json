@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_bagby",
+  "name": "Larry Bagby",
+  "external_ids": {
+    "wikidata": "Q202066",
+    "imdb": "nm0046541"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

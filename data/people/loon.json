@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_loon",
+  "name": "Loon",
+  "external_ids": {
+    "wikidata": "Q706911",
+    "imdb": "nm1386046"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

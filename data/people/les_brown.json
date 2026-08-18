@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_les_brown",
+  "name": "Les Brown",
+  "external_ids": {
+    "wikidata": "Q353587",
+    "imdb": "nm0114089"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1912,
+  "death_year": 2001
+}

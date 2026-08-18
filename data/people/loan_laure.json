@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_loan_laure",
+  "name": "Loan Laure",
+  "external_ids": {
+    "wikidata": "Q3257590",
+    "imdb": "nm1751378"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}
