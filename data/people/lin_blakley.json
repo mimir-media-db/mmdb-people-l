@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lin_blakley",
+  "name": "Lin Blakley",
+  "external_ids": {
+    "wikidata": "Q18687797",
+    "imdb": "nm1855755"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_longhi",
+  "name": "Luis Longhi",
+  "external_ids": {
+    "wikidata": "Q28008955",
+    "imdb": "nm0519323"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

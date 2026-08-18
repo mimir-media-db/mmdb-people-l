@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lloyd_newson",
+  "name": "Lloyd Newson",
+  "external_ids": {
+    "wikidata": "Q3257535",
+    "imdb": "nm0628433"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

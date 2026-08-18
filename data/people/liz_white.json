@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liz_white",
+  "name": "Liz White",
+  "external_ids": {
+    "wikidata": "Q442142",
+    "imdb": "nm1022566"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}
