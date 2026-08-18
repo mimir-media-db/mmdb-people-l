@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lake_bell",
+  "name": "Lake Bell",
+  "external_ids": {
+    "wikidata": "Q241686",
+    "imdb": "nm1128572"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1979,
+  "death_year": null
+}

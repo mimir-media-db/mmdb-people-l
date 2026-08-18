@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_perry",
+  "name": "Luke Perry",
+  "external_ids": {
+    "wikidata": "Q318165",
+    "imdb": "nm0000580"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1966,
+  "death_year": 2019
+}

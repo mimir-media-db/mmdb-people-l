@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_david",
+  "name": "Larry David",
+  "external_ids": {
+    "wikidata": "Q23728",
+    "imdb": "nm0202970"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1947,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lino_guanciale",
+  "name": "Lino Guanciale",
+  "external_ids": {
+    "wikidata": "Q3833073",
+    "imdb": "nm3089570"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1979,
+  "death_year": null
+}

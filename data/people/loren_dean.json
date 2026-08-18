@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_loren_dean",
+  "name": "Loren Dean",
+  "external_ids": {
+    "wikidata": "Q488723",
+    "imdb": "nm0000363"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1969,
+  "death_year": null
+}
