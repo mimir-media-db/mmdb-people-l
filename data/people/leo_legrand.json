@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_leo_legrand",
+  "name": "Léo Legrand",
+  "external_ids": {
+    "wikidata": "Q551705",
+    "imdb": "nm1675203"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1995
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lewis_black",
+  "name": "Lewis Black",
+  "external_ids": {
+    "wikidata": "Q180252",
+    "imdb": "nm0085400"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

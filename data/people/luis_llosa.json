@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_llosa",
+  "name": "Luis Llosa",
+  "external_ids": {
+    "wikidata": "Q719821",
+    "imdb": "nm0515891"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

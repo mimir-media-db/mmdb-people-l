@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lino_patruno",
+  "name": "Lino Patruno",
+  "external_ids": {
+    "wikidata": "Q3833091",
+    "imdb": "nm0666003"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935
+}

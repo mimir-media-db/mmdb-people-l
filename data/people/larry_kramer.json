@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_kramer",
+  "name": "Larry Kramer",
+  "external_ids": {
+    "wikidata": "Q653366",
+    "imdb": "nm0469594"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2020
+}
