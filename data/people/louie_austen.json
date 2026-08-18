@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_louie_austen",
+  "name": "Louie Austen",
+  "external_ids": {
+    "wikidata": "Q877128",
+    "imdb": "nm2237811"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

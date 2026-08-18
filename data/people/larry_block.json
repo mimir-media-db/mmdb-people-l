@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_block",
+  "name": "Larry Block",
+  "external_ids": {
+    "wikidata": "Q6489967",
+    "imdb": "nm0088745"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2012
+}

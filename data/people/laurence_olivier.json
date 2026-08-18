@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_laurence_olivier",
+  "name": "Laurence Olivier",
+  "external_ids": {
+    "wikidata": "Q55245",
+    "imdb": "nm0000059"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1907,
+  "death_year": 1989
+}

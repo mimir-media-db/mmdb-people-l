@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lenka",
+  "name": "Lenka",
+  "external_ids": {
+    "wikidata": "Q276745",
+    "imdb": "nm0471387"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

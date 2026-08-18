@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lasse_kroner",
+  "name": "Lasse Kronér",
+  "external_ids": {
+    "wikidata": "Q5924033",
+    "imdb": "nm0472227"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

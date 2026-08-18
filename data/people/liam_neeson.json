@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liam_neeson",
+  "name": "Liam Neeson",
+  "external_ids": {
+    "wikidata": "Q58444",
+    "imdb": "nm0000553"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

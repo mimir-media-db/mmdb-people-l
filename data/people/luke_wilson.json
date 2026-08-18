@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_wilson",
+  "name": "Luke Wilson",
+  "external_ids": {
+    "wikidata": "Q107769",
+    "imdb": "nm0005561"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

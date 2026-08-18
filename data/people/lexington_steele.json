@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lexington_steele",
+  "name": "Lexington Steele",
+  "external_ids": {
+    "wikidata": "Q455395",
+    "imdb": "nm0824615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

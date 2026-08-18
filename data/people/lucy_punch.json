@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucy_punch",
+  "name": "Lucy Punch",
+  "external_ids": {
+    "wikidata": "Q261579",
+    "imdb": "nm0700577"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}

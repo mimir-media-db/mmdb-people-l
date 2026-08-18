@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_les_mayfield",
+  "name": "Les Mayfield",
+  "external_ids": {
+    "wikidata": "Q518696",
+    "imdb": "nm0562645"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}
