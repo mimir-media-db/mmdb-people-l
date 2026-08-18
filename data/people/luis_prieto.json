@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_prieto",
+  "name": "Luis Prieto",
+  "external_ids": {
+    "wikidata": "Q960762",
+    "imdb": "nm1060986"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_clark",
+  "name": "Larry Clark",
+  "external_ids": {
+    "wikidata": "Q714496",
+    "imdb": "nm0164187"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

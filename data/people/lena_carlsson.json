@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lena_carlsson",
+  "name": "Lena Carlsson",
+  "external_ids": {
+    "wikidata": "Q4941964",
+    "imdb": "nm0138107"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

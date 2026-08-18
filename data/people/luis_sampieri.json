@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_sampieri",
+  "name": "Luis Sampieri",
+  "external_ids": {
+    "wikidata": "Q97926981",
+    "imdb": "nm1133168"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

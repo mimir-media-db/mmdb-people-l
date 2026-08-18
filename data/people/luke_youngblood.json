@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_youngblood",
+  "name": "Luke Youngblood",
+  "external_ids": {
+    "wikidata": "Q511148",
+    "imdb": "nm1009350"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}
