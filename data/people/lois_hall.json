@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lois_hall",
+  "name": "Lois Hall",
+  "external_ids": {
+    "wikidata": "Q3258672",
+    "imdb": "nm0355838"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2006
+}

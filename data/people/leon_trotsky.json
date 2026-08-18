@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leon_trotsky",
+  "name": "Leon Trotsky",
+  "external_ids": {
+    "wikidata": "Q33391",
+    "imdb": "nm0873654"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1879,
+  "death_year": 1940
+}

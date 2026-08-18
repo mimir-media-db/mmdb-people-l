@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luc_malette",
+  "name": "Luc Malette",
+  "external_ids": {
+    "wikidata": "Q3264862",
+    "imdb": "nm2146763"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luc_lavandier",
+  "name": "Luc Lavandier",
+  "external_ids": {
+    "wikidata": "Q3264852",
+    "imdb": "nm0491773"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

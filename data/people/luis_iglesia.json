@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_iglesia",
+  "name": "Luís Iglesia",
+  "external_ids": {
+    "wikidata": "Q16318626",
+    "imdb": "nm1675116"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

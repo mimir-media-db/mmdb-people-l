@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_les_tremayne",
+  "name": "Les Tremayne",
+  "external_ids": {
+    "wikidata": "Q927542",
+    "imdb": "nm0871876"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1913,
+  "death_year": 2003
+}

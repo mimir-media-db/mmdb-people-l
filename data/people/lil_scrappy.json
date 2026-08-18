@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lil_scrappy",
+  "name": "Lil Scrappy",
+  "external_ids": {
+    "wikidata": "Q706324",
+    "imdb": "nm1967293"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

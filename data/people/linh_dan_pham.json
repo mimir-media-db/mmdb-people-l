@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linh_dan_pham",
+  "name": "Linh Dan Pham",
+  "external_ids": {
+    "wikidata": "Q292756",
+    "imdb": "nm0199006"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

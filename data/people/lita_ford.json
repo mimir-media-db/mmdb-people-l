@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lita_ford",
+  "name": "Lita Ford",
+  "external_ids": {
+    "wikidata": "Q163211",
+    "imdb": "nm0285753"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
