@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lance_armstrong",
+  "name": "Lance Armstrong",
+  "external_ids": {
+    "wikidata": "Q2172",
+    "imdb": "nm0035790"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

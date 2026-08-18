@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lynda_carter",
+  "name": "Lynda Carter",
+  "external_ids": {
+    "wikidata": "Q242903",
+    "imdb": "nm0004812"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

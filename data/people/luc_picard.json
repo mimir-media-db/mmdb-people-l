@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luc_picard",
+  "name": "Luc Picard",
+  "external_ids": {
+    "wikidata": "Q3264890",
+    "imdb": "nm0681401"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

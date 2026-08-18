@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_louis_champagne",
+  "name": "Louis Champagne",
+  "external_ids": {
+    "wikidata": "Q3261459",
+    "imdb": "nm0150615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

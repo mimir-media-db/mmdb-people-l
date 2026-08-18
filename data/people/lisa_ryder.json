@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lisa_ryder",
+  "name": "Lisa Ryder",
+  "external_ids": {
+    "wikidata": "Q272296",
+    "imdb": "nm0753121"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

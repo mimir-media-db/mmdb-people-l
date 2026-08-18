@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_leo_bill",
+  "name": "Leo Bill",
+  "external_ids": {
+    "wikidata": "Q1387747",
+    "imdb": "nm1095324"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

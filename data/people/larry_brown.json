@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_brown",
+  "name": "Larry Brown",
+  "external_ids": {
+    "wikidata": "Q3218029",
+    "imdb": "nm0114051"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2004
+}

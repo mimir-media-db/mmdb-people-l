@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lone_petersen",
+  "name": "Lone Petersen",
+  "external_ids": {
+    "wikidata": "Q40011548",
+    "imdb": "nm0676894"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

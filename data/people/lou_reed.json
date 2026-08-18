@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lou_reed",
+  "name": "Lou Reed",
+  "external_ids": {
+    "wikidata": "Q189080",
+    "imdb": "nm0715563"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2013
+}

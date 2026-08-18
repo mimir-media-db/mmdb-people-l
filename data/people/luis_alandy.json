@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_alandy",
+  "name": "Luis Alandy",
+  "external_ids": {
+    "wikidata": "Q6700251",
+    "imdb": "nm1284928"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

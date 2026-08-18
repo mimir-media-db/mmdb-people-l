@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lance_guest",
+  "name": "Lance Guest",
+  "external_ids": {
+    "wikidata": "Q3216928",
+    "imdb": "nm0346411"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

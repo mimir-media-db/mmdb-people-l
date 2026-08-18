@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lois_smith",
+  "name": "Lois Smith",
+  "external_ids": {
+    "wikidata": "Q258246",
+    "imdb": "nm0809135"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930
+}

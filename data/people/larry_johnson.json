@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_johnson",
+  "name": "Larry Johnson",
+  "external_ids": {
+    "wikidata": "Q6490584",
+    "imdb": "nm0425588"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947,
+  "death_year": 2010
+}
