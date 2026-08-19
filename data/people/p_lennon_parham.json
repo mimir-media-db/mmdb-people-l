@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lennon_parham",
+  "name": "Lennon Parham",
+  "external_ids": {
+    "wikidata": "Q6522823",
+    "imdb": "nm1004811"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
