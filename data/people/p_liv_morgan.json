@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liv_morgan",
+  "name": "Liv Morgan",
+  "external_ids": {
+    "wikidata": "Q20807289",
+    "imdb": "nm7122863"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
