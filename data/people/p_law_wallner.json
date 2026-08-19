@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_law_wallner",
+  "name": "Law Wallner",
+  "external_ids": {
+    "wikidata": "Q117554670",
+    "imdb": "nm9717960"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
