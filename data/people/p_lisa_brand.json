@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lisa_brand",
+  "name": "Lisa Brand",
+  "external_ids": {
+    "wikidata": "Q21879452",
+    "imdb": "nm4671588"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
