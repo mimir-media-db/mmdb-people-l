@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_rubio",
+  "name": "Luis Rubio",
+  "external_ids": {
+    "wikidata": "Q18203203",
+    "imdb": "nm2206472"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
