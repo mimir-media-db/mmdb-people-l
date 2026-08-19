@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liis_nimik",
+  "name": "Liis Nimik",
+  "external_ids": {
+    "wikidata": "Q12368733",
+    "imdb": "nm3113939"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

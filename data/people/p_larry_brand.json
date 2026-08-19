@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_brand",
+  "name": "Larry Brand",
+  "external_ids": {
+    "wikidata": "Q55862114",
+    "imdb": "nm0104487"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949,
+  "death_year": 2019
+}

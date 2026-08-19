@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_de_val",
+  "name": "Luis de Val",
+  "external_ids": {
+    "wikidata": "Q106320641",
+    "imdb": "nm1525641"
+  },
+  "last_updated": "2026-08-19"
+}

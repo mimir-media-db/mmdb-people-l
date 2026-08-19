@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_lodos",
+  "name": "Luis Lodos",
+  "external_ids": {
+    "wikidata": "Q114904694",
+    "imdb": "nm2167159"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

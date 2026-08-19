@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lolita",
+  "name": "Lolita",
+  "external_ids": {
+    "wikidata": "Q137718497",
+    "imdb": "nm4086796"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

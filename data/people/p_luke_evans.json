@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_evans",
+  "name": "Luke Evans",
+  "external_ids": {
+    "wikidata": "Q722001",
+    "imdb": "nm1812656"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
