@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_luigi_acquisto",
+  "name": "Luigi Acquisto",
+  "external_ids": {
+    "wikidata": "Q116771857",
+    "imdb": "nm0010286"
+  },
+  "last_updated": "2026-08-19"
+}

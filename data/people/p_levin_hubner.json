@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_levin_hubner",
+  "name": "Levin Hübner",
+  "external_ids": {
+    "wikidata": "Q106714429",
+    "imdb": "nm6215463"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

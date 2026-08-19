@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_luther_vandross",
+  "name": "Luther Vandross",
+  "external_ids": {
+    "wikidata": "Q311306",
+    "imdb": "nm0005526"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951,
+  "death_year": 2005
+}

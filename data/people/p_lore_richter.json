@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lore_richter",
+  "name": "Lore Richter",
+  "external_ids": {
+    "wikidata": "Q1869956",
+    "imdb": "nm3096874"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

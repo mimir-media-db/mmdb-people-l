@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_loan_chabanol",
+  "name": "Loan Chabanol",
+  "external_ids": {
+    "wikidata": "Q17686706",
+    "imdb": "nm5307742"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
