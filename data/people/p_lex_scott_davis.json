@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lex_scott_davis",
+  "name": "Lex Scott Davis",
+  "external_ids": {
+    "wikidata": "Q50413328",
+    "imdb": "nm6280112"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
