@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_leo_staar",
+  "name": "Leo Staar",
+  "external_ids": {
+    "wikidata": "Q99478343",
+    "imdb": "nm4222685"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

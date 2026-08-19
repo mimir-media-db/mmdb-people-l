@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_lane_carlock",
+  "name": "Lane Carlock",
+  "external_ids": {
+    "wikidata": "Q111738583",
+    "imdb": "nm1689501"
+  },
+  "last_updated": "2026-08-19"
+}

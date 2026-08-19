@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lana_condor",
+  "name": "Lana Condor",
+  "external_ids": {
+    "wikidata": "Q24250404",
+    "imdb": "nm7093076"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}
