@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lori_singer",
+  "name": "Lori Singer",
+  "external_ids": {
+    "wikidata": "Q255720",
+    "imdb": "nm0001742"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lex_lang",
+  "name": "Lex Lang",
+  "external_ids": {
+    "wikidata": "Q4356087",
+    "imdb": "nm0485670"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

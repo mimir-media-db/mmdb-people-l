@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luna_star",
+  "name": "Luna Star",
+  "external_ids": {
+    "wikidata": "Q20608310",
+    "imdb": "nm5608326"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

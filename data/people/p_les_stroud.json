@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_les_stroud",
+  "name": "Les Stroud",
+  "external_ids": {
+    "wikidata": "Q2570365",
+    "imdb": "nm2152365"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

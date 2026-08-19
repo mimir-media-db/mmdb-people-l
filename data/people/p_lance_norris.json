@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lance_norris",
+  "name": "Lance Norris",
+  "external_ids": {
+    "wikidata": "Q16194726",
+    "imdb": "nm0635847"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}
