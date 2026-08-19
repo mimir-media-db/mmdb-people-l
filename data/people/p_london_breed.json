@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_london_breed",
+  "name": "London Breed",
+  "external_ids": {
+    "wikidata": "Q6669880",
+    "imdb": "nm8071549"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

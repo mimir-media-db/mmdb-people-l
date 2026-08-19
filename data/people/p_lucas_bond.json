@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucas_bond",
+  "name": "Lucas Bond",
+  "external_ids": {
+    "wikidata": "Q97736158",
+    "imdb": "nm5375196"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2005
+}

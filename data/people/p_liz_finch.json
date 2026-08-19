@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liz_finch",
+  "name": "Liz Finch",
+  "external_ids": {
+    "wikidata": "Q113500051",
+    "imdb": "nm12980311"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_norris",
+  "name": "Luke Norris",
+  "external_ids": {
+    "wikidata": "Q27842999",
+    "imdb": "nm3037896"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
