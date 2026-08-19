@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_marques",
+  "name": "Luis Marquès",
+  "external_ids": {
+    "wikidata": "Q100989453",
+    "imdb": "nm0549949"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
