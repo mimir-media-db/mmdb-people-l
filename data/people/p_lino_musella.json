@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lino_musella",
+  "name": "Lino Musella",
+  "external_ids": {
+    "wikidata": "Q106675119",
+    "imdb": "nm5034016"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

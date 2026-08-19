@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_laura_laune",
+  "name": "Laura Laune",
+  "external_ids": {
+    "wikidata": "Q47088585",
+    "imdb": "nm8925979"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
