@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_iriondo",
+  "name": "Luis Iriondo",
+  "external_ids": {
+    "wikidata": "Q19947960",
+    "imdb": "nm0409981"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1931,
+  "death_year": 2017
+}

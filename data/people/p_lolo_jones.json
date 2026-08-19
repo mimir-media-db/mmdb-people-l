@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lolo_jones",
+  "name": "Lolo Jones",
+  "external_ids": {
+    "wikidata": "Q466911",
+    "imdb": "nm3141330"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
