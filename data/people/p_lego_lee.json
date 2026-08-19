@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lego_lee",
+  "name": "Lego Lee",
+  "external_ids": {
+    "wikidata": "Q8981873",
+    "imdb": "nm2442597"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
