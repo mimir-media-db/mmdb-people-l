@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_linn_reusse",
+  "name": "Linn Reusse",
+  "external_ids": {
+    "wikidata": "Q114378",
+    "imdb": "nm2430216"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
