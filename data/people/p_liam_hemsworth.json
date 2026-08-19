@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_liam_hemsworth",
+  "name": "Liam Hemsworth",
+  "external_ids": {
+    "wikidata": "Q32045",
+    "imdb": "nm2955013"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

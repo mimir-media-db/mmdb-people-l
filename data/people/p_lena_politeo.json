@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lena_politeo",
+  "name": "Lena Politeo",
+  "external_ids": {
+    "wikidata": "Q16110272",
+    "imdb": "nm0689212"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930
+}
