@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_leo_borg",
+  "name": "Leo Borg",
+  "external_ids": {
+    "wikidata": "Q97499980",
+    "imdb": "nm1763303"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2003
+}
