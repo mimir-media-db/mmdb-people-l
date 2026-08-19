@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lana_del_rey",
+  "name": "Lana Del Rey",
+  "external_ids": {
+    "wikidata": "Q37150",
+    "imdb": "nm4787894"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
