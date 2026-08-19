@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lena_chaplin",
+  "name": "Lena Chaplin",
+  "external_ids": {
+    "wikidata": "Q49964389",
+    "imdb": "nm0152248"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1934
+}

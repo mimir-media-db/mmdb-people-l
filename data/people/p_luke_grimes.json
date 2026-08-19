@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_grimes",
+  "name": "Luke Grimes",
+  "external_ids": {
+    "wikidata": "Q1060344",
+    "imdb": "nm2093766"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

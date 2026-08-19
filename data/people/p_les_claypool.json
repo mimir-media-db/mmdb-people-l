@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_les_claypool",
+  "name": "Les Claypool",
+  "external_ids": {
+    "wikidata": "Q514985",
+    "imdb": "nm0165633"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

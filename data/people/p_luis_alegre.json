@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_alegre",
+  "name": "Luis Alegre",
+  "external_ids": {
+    "wikidata": "Q5982717",
+    "imdb": "nm0017810"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

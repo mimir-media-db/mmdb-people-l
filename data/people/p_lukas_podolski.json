@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lukas_podolski",
+  "name": "Lukas Podolski",
+  "external_ids": {
+    "wikidata": "Q134976",
+    "imdb": "nm1889144"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
