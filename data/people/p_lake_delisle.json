@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_lake_delisle",
+  "name": "Lake Delisle",
+  "external_ids": {
+    "wikidata": "Q113865853",
+    "imdb": "nm9216756"
+  },
+  "last_updated": "2026-08-19"
+}

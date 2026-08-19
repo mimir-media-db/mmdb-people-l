@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lil_duval",
+  "name": "Lil Duval",
+  "external_ids": {
+    "wikidata": "Q6547405",
+    "imdb": "nm1328793"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
