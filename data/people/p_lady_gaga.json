@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lady_gaga",
+  "name": "Lady Gaga",
+  "external_ids": {
+    "wikidata": "Q19848",
+    "imdb": "nm3078932"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

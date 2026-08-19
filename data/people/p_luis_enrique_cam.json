@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_enrique_cam",
+  "name": "Luis Enrique Cam",
+  "external_ids": {
+    "wikidata": "Q123481926",
+    "imdb": "nm6080919"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

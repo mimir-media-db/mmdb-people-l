@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_lucas",
+  "name": "Luís Lucas",
+  "external_ids": {
+    "wikidata": "Q10321528",
+    "imdb": "nm0524230"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952,
+  "death_year": 2025
+}

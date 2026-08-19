@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_oliva",
+  "name": "Luis Oliva",
+  "external_ids": {
+    "wikidata": "Q111912622",
+    "imdb": "nm3520198"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
