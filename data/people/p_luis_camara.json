@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_camara",
+  "name": "Luis Cámara",
+  "external_ids": {
+    "wikidata": "Q131340932",
+    "imdb": "nm1076172"
+  },
+  "last_updated": "2026-08-19"
+}

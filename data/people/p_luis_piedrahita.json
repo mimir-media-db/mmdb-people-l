@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_piedrahita",
+  "name": "Luis Piedrahita",
+  "external_ids": {
+    "wikidata": "Q956236",
+    "imdb": "nm1618276"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
