@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucy_doll",
+  "name": "Lucy Doll",
+  "external_ids": {
+    "wikidata": "Q56470498",
+    "imdb": "nm7583393"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}

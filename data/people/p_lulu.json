@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lulu",
+  "name": "Lulu",
+  "external_ids": {
+    "wikidata": "Q229716",
+    "imdb": "nm0525801"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
