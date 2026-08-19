@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucy_devito",
+  "name": "Lucy DeVito",
+  "external_ids": {
+    "wikidata": "Q509953",
+    "imdb": "nm2192439"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lil_rob",
+  "name": "Lil Rob",
+  "external_ids": {
+    "wikidata": "Q3240751",
+    "imdb": "nm1470514"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
