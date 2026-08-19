@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lois_weber",
+  "name": "Lois Weber",
+  "external_ids": {
+    "wikidata": "Q462440",
+    "imdb": "nm0916665"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1879,
+  "death_year": 1939
+}
