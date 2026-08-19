@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_lil_peep",
+  "name": "Lil Peep",
+  "external_ids": {
+    "wikidata": "Q29388200",
+    "imdb": "nm9425078"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996,
+  "death_year": 2017
+}

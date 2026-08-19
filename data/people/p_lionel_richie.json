@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lionel_richie",
+  "name": "Lionel Richie",
+  "external_ids": {
+    "wikidata": "Q26695",
+    "imdb": "nm0005360"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
