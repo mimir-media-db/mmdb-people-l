@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_hemsworth",
+  "name": "Luke Hemsworth",
+  "external_ids": {
+    "wikidata": "Q1877051",
+    "imdb": "nm1292661"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

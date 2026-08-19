@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lex_medlin",
+  "name": "Lex Medlin",
+  "external_ids": {
+    "wikidata": "Q6537581",
+    "imdb": "nm0575843"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
