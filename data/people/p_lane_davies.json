@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lane_davies",
+  "name": "Lane Davies",
+  "external_ids": {
+    "wikidata": "Q2403035",
+    "imdb": "nm0203810"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}

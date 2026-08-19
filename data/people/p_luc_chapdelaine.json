@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luc_chapdelaine",
+  "name": "Luc Chapdelaine",
+  "external_ids": {
+    "wikidata": "Q3264771",
+    "imdb": "nm1062074"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}
