@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lorin_doctor",
+  "name": "Lorin Doctor",
+  "external_ids": {
+    "wikidata": "Q132444228",
+    "imdb": "nm3732675"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
