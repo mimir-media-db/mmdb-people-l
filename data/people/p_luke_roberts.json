@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_roberts",
+  "name": "Luke Roberts",
+  "external_ids": {
+    "wikidata": "Q4354675",
+    "imdb": "nm1074361"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
