@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_live_bonnevie",
+  "name": "Live Bonnevie",
+  "external_ids": {
+    "wikidata": "Q11986563",
+    "imdb": "nm0095012"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
