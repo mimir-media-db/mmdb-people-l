@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lino_facioli",
+  "name": "Lino Facioli",
+  "external_ids": {
+    "wikidata": "Q6554671",
+    "imdb": "nm2996220"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}

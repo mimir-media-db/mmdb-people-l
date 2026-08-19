@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_leslie_jones",
+  "name": "Leslie Jones",
+  "external_ids": {
+    "wikidata": "Q6530936",
+    "imdb": "nm0428656"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
