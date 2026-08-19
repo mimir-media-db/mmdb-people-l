@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_estrada",
+  "name": "Luis Estrada",
+  "external_ids": {
+    "wikidata": "Q5983324",
+    "imdb": "nm0261840"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lena_beyerling",
+  "name": "Lena Beyerling",
+  "external_ids": {
+    "wikidata": "Q101243",
+    "imdb": "nm1397348"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}

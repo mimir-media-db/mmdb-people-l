@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_ford",
+  "name": "Luke Ford",
+  "external_ids": {
+    "wikidata": "Q545138",
+    "imdb": "nm1047329"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
