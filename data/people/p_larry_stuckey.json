@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_stuckey",
+  "name": "Larry Stuckey",
+  "external_ids": {
+    "wikidata": "Q3218107",
+    "imdb": "nm0836001"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
