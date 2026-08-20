@@ -375,6 +375,12 @@
     "path": "data/people/p_lada_jelinkova.json"
   },
   {
+    "id": "p_lada_kastelan",
+    "name": "Lada Kaštelan",
+    "birth_year": 1961,
+    "path": "data/people/p_lada_kastelan.json"
+  },
+  {
     "id": "p_lada_maris",
     "name": "Lada Maris",
     "birth_year": 1968,
@@ -757,6 +763,12 @@
     "name": "Ladislav Županič",
     "birth_year": 1943,
     "path": "data/people/p_ladislav_zupanic.json"
+  },
+  {
+    "id": "p_ladislava_chateau",
+    "name": "Ladislava Chateau",
+    "birth_year": 1950,
+    "path": "data/people/p_ladislava_chateau.json"
   },
   {
     "id": "p_ladj_ly",
@@ -3475,6 +3487,12 @@
     "path": "data/people/p_larry_gelbart.json"
   },
   {
+    "id": "p_larry_goldings",
+    "name": "Larry Goldings",
+    "birth_year": 1968,
+    "path": "data/people/p_larry_goldings.json"
+  },
+  {
     "id": "p_larry_gross",
     "name": "Larry Gross",
     "birth_year": 1952,
@@ -4107,6 +4125,12 @@
     "name": "Lars Gudmestad",
     "birth_year": 1969,
     "path": "data/people/p_lars_gudmestad.json"
+  },
+  {
+    "id": "p_lars_hagglund",
+    "name": "Lars Hägglund",
+    "birth_year": 1979,
+    "path": "data/people/p_lars_hagglund.json"
   },
   {
     "id": "p_lars_haldenberg",
@@ -4832,6 +4856,12 @@
     "name": "Lasse Nielsen",
     "birth_year": 1950,
     "path": "data/people/p_lasse_nielsen.json"
+  },
+  {
+    "id": "p_lasse_nolte",
+    "name": "Lasse Nolte",
+    "birth_year": 1979,
+    "path": "data/people/p_lasse_nolte.json"
   },
   {
     "id": "p_lasse_persson",
@@ -8205,6 +8235,12 @@
     "path": "data/people/p_laurent_gamelon.json"
   },
   {
+    "id": "p_laurent_garnier",
+    "name": "Laurent Garnier",
+    "birth_year": 1966,
+    "path": "data/people/p_laurent_garnier.json"
+  },
+  {
     "id": "p_laurent_gendron",
     "name": "Laurent Gendron",
     "birth_year": 1957,
@@ -9885,6 +9921,12 @@
     "name": "Lê Bình",
     "birth_year": 1952,
     "path": "data/people/p_le_binh.json"
+  },
+  {
+    "id": "p_le_cat_trong_ly",
+    "name": "Lê Cát Trọng Lý",
+    "birth_year": 1987,
+    "path": "data/people/p_le_cat_trong_ly.json"
   },
   {
     "id": "p_le_cung_bac",
@@ -14328,6 +14370,12 @@
     "path": "data/people/p_leighton_peterson.json"
   },
   {
+    "id": "p_leiji_matsumoto",
+    "name": "Leiji Matsumoto",
+    "birth_year": 1938,
+    "path": "data/people/p_leiji_matsumoto.json"
+  },
+  {
     "id": "p_leila_albayaty",
     "name": "Leila Albayaty",
     "path": "data/people/p_leila_albayaty.json"
@@ -16351,6 +16399,12 @@
     "name": "Leo Melamed",
     "birth_year": 1932,
     "path": "data/people/p_leo_melamed.json"
+  },
+  {
+    "id": "p_leo_mendoza",
+    "name": "Leo Mendoza",
+    "birth_year": 1957,
+    "path": "data/people/p_leo_mendoza.json"
   },
   {
     "id": "p_leo_minaya",
@@ -19685,6 +19739,11 @@
     "id": "p_levino_jensen",
     "name": "Levino Jensen",
     "path": "data/people/p_levino_jensen.json"
+  },
+  {
+    "id": "p_levon_broussalian",
+    "name": "Levon Broussalian",
+    "path": "data/people/p_levon_broussalian.json"
   },
   {
     "id": "p_levon_harutyunyan",
@@ -25340,6 +25399,11 @@
     "path": "data/people/p_line_gertsen.json"
   },
   {
+    "id": "p_line_grunfeld",
+    "name": "Line Grünfeld",
+    "path": "data/people/p_line_grunfeld.json"
+  },
+  {
     "id": "p_line_halvorsen",
     "name": "Line Halvorsen",
     "birth_year": 1968,
@@ -25385,6 +25449,12 @@
     "id": "p_linette_doherty",
     "name": "Linette Doherty",
     "path": "data/people/p_linette_doherty.json"
+  },
+  {
+    "id": "p_ling_chi_man",
+    "name": "Ling Chi Man",
+    "birth_year": 1976,
+    "path": "data/people/p_ling_chi_man.json"
   },
   {
     "id": "p_ling_manlung",
@@ -28657,6 +28727,12 @@
     "path": "data/people/p_liviu_tipurita.json"
   },
   {
+    "id": "p_liviu_tofan",
+    "name": "Liviu Tofan",
+    "birth_year": 1947,
+    "path": "data/people/p_liviu_tofan.json"
+  },
+  {
     "id": "p_liviu_varciu",
     "name": "Liviu Vârciu",
     "birth_year": 1981,
@@ -30842,6 +30918,12 @@
     "path": "data/people/p_lollo_franco.json"
   },
   {
+    "id": "p_lollu_sabha_balaji",
+    "name": "Lollu Sabha Balaji",
+    "birth_year": 1970,
+    "path": "data/people/p_lollu_sabha_balaji.json"
+  },
+  {
     "id": "p_lollu_sabha_jeeva",
     "name": "Lollu Sabha Jeeva",
     "path": "data/people/p_lollu_sabha_jeeva.json"
@@ -32585,6 +32667,12 @@
     "name": "Lothar Scherpe",
     "birth_year": 1999,
     "path": "data/people/p_lothar_scherpe.json"
+  },
+  {
+    "id": "p_lotje_ijzermans",
+    "name": "Lotje IJzermans",
+    "birth_year": 1958,
+    "path": "data/people/p_lotje_ijzermans.json"
   },
   {
     "id": "p_lotje_sodderland",
@@ -34432,6 +34520,12 @@
     "path": "data/people/p_louna_espinosa.json"
   },
   {
+    "id": "p_loung_ung",
+    "name": "Loung Ung",
+    "birth_year": 1970,
+    "path": "data/people/p_loung_ung.json"
+  },
+  {
     "id": "p_loup_bureau",
     "name": "Loup Bureau",
     "path": "data/people/p_loup_bureau.json"
@@ -35169,6 +35263,11 @@
     "path": "data/people/p_lubos_biza.json"
   },
   {
+    "id": "p_lubos_draganovsky",
+    "name": "Luboš Draganovský",
+    "path": "data/people/p_lubos_draganovsky.json"
+  },
+  {
     "id": "p_lubos_fiala",
     "name": "Ľuboš Fiala",
     "path": "data/people/p_lubos_fiala.json"
@@ -35499,6 +35598,11 @@
     "path": "data/people/p_luc_proulx.json"
   },
   {
+    "id": "p_luc_rambo",
+    "name": "Luc Rambo",
+    "path": "data/people/p_luc_rambo.json"
+  },
+  {
     "id": "p_luc_renaud",
     "name": "Luc Renaud",
     "path": "data/people/p_luc_renaud.json"
@@ -35808,6 +35912,12 @@
     "name": "Luca Gasparini",
     "birth_year": 1958,
     "path": "data/people/p_luca_gasparini.json"
+  },
+  {
+    "id": "p_luca_giordano",
+    "name": "Luca Giordano",
+    "birth_year": 1984,
+    "path": "data/people/p_luca_giordano.json"
   },
   {
     "id": "p_luca_giurato",
@@ -42711,6 +42821,12 @@
     "path": "data/people/p_luke_guldan.json"
   },
   {
+    "id": "p_luke_harding",
+    "name": "Luke Harding",
+    "birth_year": 1968,
+    "path": "data/people/p_luke_harding.json"
+  },
+  {
     "id": "p_luke_hardy",
     "name": "Luke Hardy",
     "birth_year": 1983,
@@ -44464,6 +44580,12 @@
     "name": "Lynn Collins",
     "birth_year": 1977,
     "path": "data/people/p_lynn_collins.json"
+  },
+  {
+    "id": "p_lynn_fainchtein",
+    "name": "Lynn Fainchtein",
+    "birth_year": 1963,
+    "path": "data/people/p_lynn_fainchtein.json"
   },
   {
     "id": "p_lynn_farleigh",
