@@ -983,6 +983,12 @@
     "path": "data/people/p_lai_haozhe.json"
   },
   {
+    "id": "p_lai_ho",
+    "name": "Lai Ho",
+    "birth_year": 1958,
+    "path": "data/people/p_lai_ho.json"
+  },
+  {
     "id": "p_lai_lokyi",
     "name": "Lai Lok-yi",
     "birth_year": 1980,
@@ -2682,6 +2688,12 @@
     "path": "data/people/p_lanny_barby.json"
   },
   {
+    "id": "p_lanny_cordola",
+    "name": "Lanny Cordola",
+    "birth_year": 1960,
+    "path": "data/people/p_lanny_cordola.json"
+  },
+  {
     "id": "p_lanny_flaherty",
     "name": "Lanny Flaherty",
     "birth_year": 1942,
@@ -3429,6 +3441,12 @@
     "name": "Larry H. Miller",
     "birth_year": 1944,
     "path": "data/people/p_larry_h_miller.json"
+  },
+  {
+    "id": "p_larry_hama",
+    "name": "Larry Hama",
+    "birth_year": 1949,
+    "path": "data/people/p_larry_hama.json"
   },
   {
     "id": "p_larry_hankin",
@@ -5948,6 +5966,12 @@
     "name": "Laura Lackmann",
     "birth_year": 1979,
     "path": "data/people/p_laura_lackmann.json"
+  },
+  {
+    "id": "p_laura_lamson",
+    "name": "Laura Lamson",
+    "birth_year": 1948,
+    "path": "data/people/p_laura_lamson.json"
   },
   {
     "id": "p_laura_lattuada",
@@ -13512,6 +13536,11 @@
     "path": "data/people/p_leena_gangopadhyay.json"
   },
   {
+    "id": "p_leena_joutsenlahti",
+    "name": "Leena Joutsenlahti",
+    "path": "data/people/p_leena_joutsenlahti.json"
+  },
+  {
     "id": "p_leena_kapoor",
     "name": "Leena Kapoor",
     "birth_year": 1994,
@@ -15772,6 +15801,12 @@
     "path": "data/people/p_leo_campion.json"
   },
   {
+    "id": "p_leo_cesari",
+    "name": "Leo Cesari",
+    "birth_year": 1960,
+    "path": "data/people/p_leo_cesari.json"
+  },
+  {
     "id": "p_leo_chalie",
     "name": "Léo Chalié",
     "path": "data/people/p_leo_chalie.json"
@@ -15824,6 +15859,12 @@
     "name": "Leo Galvez",
     "birth_year": 1983,
     "path": "data/people/p_leo_galvez.json"
+  },
+  {
+    "id": "p_leo_gandelman",
+    "name": "Léo Gandelman",
+    "birth_year": 1956,
+    "path": "data/people/p_leo_gandelman.json"
   },
   {
     "id": "p_leo_grandperret",
@@ -18393,6 +18434,12 @@
     "path": "data/people/p_leslie_shampaine.json"
   },
   {
+    "id": "p_leslie_shatz",
+    "name": "Leslie Shatz",
+    "birth_year": 1949,
+    "path": "data/people/p_leslie_shatz.json"
+  },
+  {
     "id": "p_leslie_shaw",
     "name": "Leslie Shaw",
     "birth_year": 1989,
@@ -19355,6 +19402,12 @@
     "name": "Lewis Tan",
     "birth_year": 1987,
     "path": "data/people/p_lewis_tan.json"
+  },
+  {
+    "id": "p_lewis_thomas",
+    "name": "Lewis Thomas",
+    "birth_year": 1913,
+    "path": "data/people/p_lewis_thomas.json"
   },
   {
     "id": "p_lewis_trondheim",
@@ -22977,6 +23030,11 @@
     "path": "data/people/p_lim_juhwan.json"
   },
   {
+    "id": "p_lim_junhyung",
+    "name": "Lim Jun-hyung",
+    "path": "data/people/p_lim_junhyung.json"
+  },
+  {
     "id": "p_lim_kah_wai",
     "name": "Lim Kah Wai",
     "path": "data/people/p_lim_kah_wai.json"
@@ -24923,6 +24981,12 @@
     "name": "Lino Musella",
     "birth_year": 1979,
     "path": "data/people/p_lino_musella.json"
+  },
+  {
+    "id": "p_lino_nava",
+    "name": "Lino Nava",
+    "birth_year": 1968,
+    "path": "data/people/p_lino_nava.json"
   },
   {
     "id": "p_lino_patruno",
@@ -27409,6 +27473,12 @@
     "name": "Liu Jiang",
     "birth_year": 1969,
     "path": "data/people/p_liu_jiang.json"
+  },
+  {
+    "id": "p_liu_jianwei",
+    "name": "Liu Jianwei",
+    "birth_year": 1963,
+    "path": "data/people/p_liu_jianwei.json"
   },
   {
     "id": "p_liu_jiayin",
@@ -30056,6 +30126,12 @@
     "path": "data/people/p_lolita_milyavskaya.json"
   },
   {
+    "id": "p_lolita_ritmanis",
+    "name": "Lolita Ritmanis",
+    "birth_year": 1962,
+    "path": "data/people/p_lolita_ritmanis.json"
+  },
+  {
     "id": "p_lollo_franco",
     "name": "Lollo Franco",
     "birth_year": 1949,
@@ -32029,6 +32105,12 @@
     "path": "data/people/p_lou_angeli.json"
   },
   {
+    "id": "p_lou_berger",
+    "name": "Lou Berger",
+    "birth_year": 1950,
+    "path": "data/people/p_lou_berger.json"
+  },
+  {
     "id": "p_lou_bohringer",
     "name": "Lou Bohringer",
     "birth_year": 1989,
@@ -32763,6 +32845,12 @@
     "path": "data/people/p_louis_ricaute.json"
   },
   {
+    "id": "p_louis_sachar",
+    "name": "Louis Sachar",
+    "birth_year": 1954,
+    "path": "data/people/p_louis_sachar.json"
+  },
+  {
     "id": "p_louis_saia",
     "name": "Louis Saia",
     "birth_year": 1950,
@@ -33192,6 +33280,12 @@
     "id": "p_louise_kster",
     "name": "Louise Køster",
     "path": "data/people/p_louise_kster.json"
+  },
+  {
+    "id": "p_louise_l_lambrichs",
+    "name": "Louise L. Lambrichs",
+    "birth_year": 1952,
+    "path": "data/people/p_louise_l_lambrichs.json"
   },
   {
     "id": "p_louise_labeque",
@@ -33734,6 +33828,12 @@
     "name": "Lovisa Charlier",
     "birth_year": 1984,
     "path": "data/people/p_lovisa_charlier.json"
+  },
+  {
+    "id": "p_lovisa_lowhagen",
+    "name": "Lovisa Löwhagen",
+    "birth_year": 1977,
+    "path": "data/people/p_lovisa_lowhagen.json"
   },
   {
     "id": "p_lovisa_tuller",
@@ -38923,6 +39023,12 @@
     "path": "data/people/p_luis_alberti.json"
   },
   {
+    "id": "p_luis_alberto_de_abreu",
+    "name": "Luis Alberto de Abreu",
+    "birth_year": 1952,
+    "path": "data/people/p_luis_alberto_de_abreu.json"
+  },
+  {
     "id": "p_luis_alberto_garcia",
     "name": "Luis Alberto García",
     "birth_year": 1980,
@@ -39809,6 +39915,12 @@
     "id": "p_luis_pacheco",
     "name": "Luis Pacheco",
     "path": "data/people/p_luis_pacheco.json"
+  },
+  {
+    "id": "p_luis_pastor",
+    "name": "Luis Pastor",
+    "birth_year": 1952,
+    "path": "data/people/p_luis_pastor.json"
   },
   {
     "id": "p_luis_perez_garcia",
