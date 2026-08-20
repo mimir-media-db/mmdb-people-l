@@ -1456,6 +1456,11 @@
     "path": "data/people/p_lakshman.json"
   },
   {
+    "id": "p_lakshman_joseph_de_saram",
+    "name": "Lakshman Joseph de Saram",
+    "path": "data/people/p_lakshman_joseph_de_saram.json"
+  },
+  {
     "id": "p_lakshman_mendis",
     "name": "Lakshman Mendis",
     "birth_year": 1955,
@@ -3977,6 +3982,12 @@
     "path": "data/people/p_lars_dejert.json"
   },
   {
+    "id": "p_lars_detlefsen",
+    "name": "Lars Detlefsen",
+    "birth_year": 1967,
+    "path": "data/people/p_lars_detlefsen.json"
+  },
+  {
     "id": "p_lars_ditlev_johansen",
     "name": "Lars Ditlev Johansen",
     "birth_year": 1964,
@@ -4921,6 +4932,12 @@
     "name": "László Keszég",
     "birth_year": 1970,
     "path": "data/people/p_laszlo_keszeg.json"
+  },
+  {
+    "id": "p_laszlo_kollarklemencz",
+    "name": "László Kollár-Klemencz",
+    "birth_year": 1966,
+    "path": "data/people/p_laszlo_kollarklemencz.json"
   },
   {
     "id": "p_laszlo_kovacs",
@@ -8705,6 +8722,12 @@
     "path": "data/people/p_lauri_torhonen.json"
   },
   {
+    "id": "p_lauri_vahtre",
+    "name": "Lauri Vahtre",
+    "birth_year": 1960,
+    "path": "data/people/p_lauri_vahtre.json"
+  },
+  {
     "id": "p_lauriane_escaffre",
     "name": "Lauriane Escaffre",
     "birth_year": 1978,
@@ -11364,6 +11387,12 @@
     "path": "data/people/p_lee_gilat.json"
   },
   {
+    "id": "p_lee_goldberg",
+    "name": "Lee Goldberg",
+    "birth_year": 1962,
+    "path": "data/people/p_lee_goldberg.json"
+  },
+  {
     "id": "p_lee_graham",
     "name": "Lee Graham",
     "path": "data/people/p_lee_graham.json"
@@ -12333,6 +12362,12 @@
     "name": "Lee Majors",
     "birth_year": 1939,
     "path": "data/people/p_lee_majors.json"
+  },
+  {
+    "id": "p_lee_manhee",
+    "name": "Lee Man-Hee",
+    "birth_year": 1931,
+    "path": "data/people/p_lee_manhee.json"
   },
   {
     "id": "p_lee_mark_jones",
@@ -14323,6 +14358,12 @@
     "path": "data/people/p_leila_otadi.json"
   },
   {
+    "id": "p_leila_s_chudori",
+    "name": "Leila S. Chudori",
+    "birth_year": 1962,
+    "path": "data/people/p_leila_s_chudori.json"
+  },
+  {
     "id": "p_leila_sansour",
     "name": "Leila Sansour",
     "path": "data/people/p_leila_sansour.json"
@@ -15933,6 +15974,12 @@
     "path": "data/people/p_leo_andrew.json"
   },
   {
+    "id": "p_leo_anemaet",
+    "name": "Leo Anemaet",
+    "birth_year": 1955,
+    "path": "data/people/p_leo_anemaet.json"
+  },
+  {
     "id": "p_leo_baker",
     "name": "Leo Baker",
     "path": "data/people/p_leo_baker.json"
@@ -17379,6 +17426,12 @@
     "path": "data/people/p_leoncio_lara.json"
   },
   {
+    "id": "p_leone_colonna",
+    "name": "Leone Colonna",
+    "birth_year": 1951,
+    "path": "data/people/p_leone_colonna.json"
+  },
+  {
     "id": "p_leone_marucci",
     "name": "Leone Marucci",
     "birth_year": 1973,
@@ -17417,6 +17470,12 @@
     "name": "Leonela Manturova",
     "birth_year": 1995,
     "path": "data/people/p_leonela_manturova.json"
+  },
+  {
+    "id": "p_leonhard_frank",
+    "name": "Leonhard Frank",
+    "birth_year": 1882,
+    "path": "data/people/p_leonhard_frank.json"
   },
   {
     "id": "p_leonhard_hollmann",
@@ -19558,6 +19617,12 @@
     "name": "Lewis Fitz-Gerald",
     "birth_year": 1958,
     "path": "data/people/p_lewis_fitzgerald.json"
+  },
+  {
+    "id": "p_lewis_friedman",
+    "name": "Lewis Friedman",
+    "birth_year": 1900,
+    "path": "data/people/p_lewis_friedman.json"
   },
   {
     "id": "p_lewis_furey",
@@ -27221,6 +27286,12 @@
     "path": "data/people/p_lisagay_hamilton.json"
   },
   {
+    "id": "p_lisamarie_dickreiter",
+    "name": "Lisa-Marie Dickreiter",
+    "birth_year": 1977,
+    "path": "data/people/p_lisamarie_dickreiter.json"
+  },
+  {
     "id": "p_lisamarie_koroll",
     "name": "Lisa-Marie Koroll",
     "birth_year": 1997,
@@ -27508,6 +27579,12 @@
     "name": "Lishoy",
     "birth_year": 1961,
     "path": "data/people/p_lishoy.json"
+  },
+  {
+    "id": "p_lisi_harrison",
+    "name": "Lisi Harrison",
+    "birth_year": 1970,
+    "path": "data/people/p_lisi_harrison.json"
   },
   {
     "id": "p_lisi_mai",
@@ -28656,6 +28733,12 @@
     "id": "p_liz_thompson",
     "name": "Liz Thompson",
     "path": "data/people/p_liz_thompson.json"
+  },
+  {
+    "id": "p_liz_tigelaar",
+    "name": "Liz Tigelaar",
+    "birth_year": 1975,
+    "path": "data/people/p_liz_tigelaar.json"
   },
   {
     "id": "p_liz_torres",
@@ -30705,6 +30788,12 @@
     "name": "Lonette McKee",
     "birth_year": 1954,
     "path": "data/people/p_lonette_mckee.json"
+  },
+  {
+    "id": "p_loney",
+    "name": "Loney",
+    "birth_year": 1979,
+    "path": "data/people/p_loney.json"
   },
   {
     "id": "p_long_jiang",
@@ -36742,6 +36831,12 @@
     "path": "data/people/p_lucian_muntean.json"
   },
   {
+    "id": "p_lucian_piane",
+    "name": "Lucian Piane",
+    "birth_year": 1980,
+    "path": "data/people/p_lucian_piane.json"
+  },
+  {
     "id": "p_lucian_pintilie",
     "name": "Lucian Pintilie",
     "birth_year": 1933,
@@ -37949,6 +38044,12 @@
     "path": "data/people/p_lucio_godoy.json"
   },
   {
+    "id": "p_lucio_mad",
+    "name": "Lucio Mad",
+    "birth_year": 1962,
+    "path": "data/people/p_lucio_mad.json"
+  },
+  {
     "id": "p_lucio_mauro",
     "name": "Lúcio Mauro",
     "birth_year": 1927,
@@ -38268,6 +38369,12 @@
     "name": "Lucy Cohu",
     "birth_year": 1968,
     "path": "data/people/p_lucy_cohu.json"
+  },
+  {
+    "id": "p_lucy_dahl",
+    "name": "Lucy Dahl",
+    "birth_year": 1965,
+    "path": "data/people/p_lucy_dahl.json"
   },
   {
     "id": "p_lucy_darwin",
@@ -42120,6 +42227,11 @@
     "path": "data/people/p_luke_davies.json"
   },
   {
+    "id": "p_luke_dawson",
+    "name": "Luke Dawson",
+    "path": "data/people/p_luke_dawson.json"
+  },
+  {
     "id": "p_luke_de_woolfson",
     "name": "Luke de Woolfson",
     "birth_year": 1976,
@@ -42663,6 +42775,12 @@
     "name": "Luli Bitri",
     "birth_year": 1976,
     "path": "data/people/p_luli_bitri.json"
+  },
+  {
+    "id": "p_lullaby_baxter",
+    "name": "Lullaby Baxter",
+    "birth_year": 1969,
+    "path": "data/people/p_lullaby_baxter.json"
   },
   {
     "id": "p_lulu",
