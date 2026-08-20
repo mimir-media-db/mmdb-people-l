@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lisi_harrison",
+  "name": "Lisi Harrison",
+  "external_ids": {
+    "wikidata": "Q273885",
+    "imdb": "nm2703870"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
