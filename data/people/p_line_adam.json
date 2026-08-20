@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_line_adam",
+  "name": "Line Adam",
+  "external_ids": {
+    "wikidata": "Q15971970",
+    "imdb": "nm1483806"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
