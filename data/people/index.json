@@ -640,6 +640,12 @@
     "path": "data/people/p_ladislav_pavlus.json"
   },
   {
+    "id": "p_ladislav_pechacek",
+    "name": "Ladislav Pecháček",
+    "birth_year": 1940,
+    "path": "data/people/p_ladislav_pechacek.json"
+  },
+  {
     "id": "p_ladislav_potmesil",
     "name": "Ladislav Potměšil",
     "birth_year": 1945,
@@ -1516,6 +1522,12 @@
     "id": "p_lakshmikanth_chenna",
     "name": "Lakshmikanth Chenna",
     "path": "data/people/p_lakshmikanth_chenna.json"
+  },
+  {
+    "id": "p_lakshminarayana_subramaniam",
+    "name": "Lakshminarayana Subramaniam",
+    "birth_year": 1947,
+    "path": "data/people/p_lakshminarayana_subramaniam.json"
   },
   {
     "id": "p_lakshmipati",
@@ -4213,6 +4225,12 @@
     "path": "data/people/p_lars_lundgren.json"
   },
   {
+    "id": "p_lars_lundstrom",
+    "name": "Lars Lundström",
+    "birth_year": 1965,
+    "path": "data/people/p_lars_lundstrom.json"
+  },
+  {
     "id": "p_lars_lune",
     "name": "Lars Lunøe",
     "birth_year": 1936,
@@ -4333,6 +4351,12 @@
     "name": "Lars Rudolph",
     "birth_year": 1966,
     "path": "data/people/p_lars_rudolph.json"
+  },
+  {
+    "id": "p_lars_saabye_christensen",
+    "name": "Lars Saabye Christensen",
+    "birth_year": 1953,
+    "path": "data/people/p_lars_saabye_christensen.json"
   },
   {
     "id": "p_lars_sidenius",
@@ -4679,6 +4703,12 @@
     "path": "data/people/p_lasse_lau.json"
   },
   {
+    "id": "p_lasse_lindh",
+    "name": "Lasse Lindh",
+    "birth_year": 1974,
+    "path": "data/people/p_lasse_lindh.json"
+  },
+  {
     "id": "p_lasse_lindsteen",
     "name": "Lasse Lindsteen",
     "path": "data/people/p_lasse_lindsteen.json"
@@ -4688,6 +4718,12 @@
     "name": "Lasse Marhaug",
     "birth_year": 1974,
     "path": "data/people/p_lasse_marhaug.json"
+  },
+  {
+    "id": "p_lasse_martenson",
+    "name": "Lasse Mårtenson",
+    "birth_year": 1934,
+    "path": "data/people/p_lasse_martenson.json"
   },
   {
     "id": "p_lasse_nielsen",
@@ -8002,6 +8038,11 @@
     "path": "data/people/p_laurent_dussaux.json"
   },
   {
+    "id": "p_laurent_fellous",
+    "name": "Laurent Fellous",
+    "path": "data/people/p_laurent_fellous.json"
+  },
+  {
     "id": "p_laurent_ferlet",
     "name": "Laurent Ferlet",
     "birth_year": 1961,
@@ -8129,6 +8170,12 @@
     "name": "Laurent Le Doyen",
     "birth_year": 1964,
     "path": "data/people/p_laurent_le_doyen.json"
+  },
+  {
+    "id": "p_laurent_levesque",
+    "name": "Laurent Levesque",
+    "birth_year": 1970,
+    "path": "data/people/p_laurent_levesque.json"
   },
   {
     "id": "p_laurent_levy",
@@ -8389,6 +8436,12 @@
     "path": "data/people/p_laurent_toubiana.json"
   },
   {
+    "id": "p_laurent_touiltartour",
+    "name": "Laurent Touil-Tartour",
+    "birth_year": 1971,
+    "path": "data/people/p_laurent_touiltartour.json"
+  },
+  {
     "id": "p_laurent_truchot",
     "name": "Laurent Truchot",
     "path": "data/people/p_laurent_truchot.json"
@@ -8398,6 +8451,12 @@
     "name": "Laurent Tuel",
     "birth_year": 1966,
     "path": "data/people/p_laurent_tuel.json"
+  },
+  {
+    "id": "p_laurent_vachaud",
+    "name": "Laurent Vachaud",
+    "birth_year": 1964,
+    "path": "data/people/p_laurent_vachaud.json"
   },
   {
     "id": "p_laurent_valo",
@@ -9707,6 +9766,11 @@
     "name": "Lê Phương",
     "birth_year": 1985,
     "path": "data/people/p_le_phuong.json"
+  },
+  {
+    "id": "p_le_quang",
+    "name": "Le Quang",
+    "path": "data/people/p_le_quang.json"
   },
   {
     "id": "p_le_quynh_lan",
@@ -13937,6 +14001,11 @@
     "path": "data/people/p_leigh_christian.json"
   },
   {
+    "id": "p_leigh_dunlap",
+    "name": "Leigh Dunlap",
+    "path": "data/people/p_leigh_dunlap.json"
+  },
+  {
     "id": "p_leigh_francis",
     "name": "Leigh Francis",
     "birth_year": 1973,
@@ -17438,6 +17507,12 @@
     "path": "data/people/p_leonid_yovchev.json"
   },
   {
+    "id": "p_leonid_zorin",
+    "name": "Leonid Zorin",
+    "birth_year": 1924,
+    "path": "data/people/p_leonid_zorin.json"
+  },
+  {
     "id": "p_leonidas_gulaptis",
     "name": "Leonidas Gulaptis",
     "birth_year": 1985,
@@ -17830,6 +17905,12 @@
     "id": "p_leos_hermanek",
     "name": "Leoš Heřmánek",
     "path": "data/people/p_leos_hermanek.json"
+  },
+  {
+    "id": "p_leos_janacek",
+    "name": "Leoš Janáček",
+    "birth_year": 1854,
+    "path": "data/people/p_leos_janacek.json"
   },
   {
     "id": "p_leos_juracek",
@@ -22008,6 +22089,12 @@
     "path": "data/people/p_lilian_klebow.json"
   },
   {
+    "id": "p_lilian_lee",
+    "name": "Lilian Lee",
+    "birth_year": 1958,
+    "path": "data/people/p_lilian_lee.json"
+  },
+  {
     "id": "p_lilian_naef",
     "name": "Lilian Naef",
     "birth_year": 1963,
@@ -22405,6 +22492,12 @@
     "id": "p_lilli_furfaro",
     "name": "Lilli Furfaro",
     "path": "data/people/p_lilli_furfaro.json"
+  },
+  {
+    "id": "p_lilli_greco",
+    "name": "Lilli Greco",
+    "birth_year": 1934,
+    "path": "data/people/p_lilli_greco.json"
   },
   {
     "id": "p_lilli_kay",
@@ -23225,6 +23318,11 @@
     "name": "Lin Laishram",
     "birth_year": 1985,
     "path": "data/people/p_lin_laishram.json"
+  },
+  {
+    "id": "p_lin_liangzhong",
+    "name": "Lin Liang-Zhong",
+    "path": "data/people/p_lin_liangzhong.json"
   },
   {
     "id": "p_lin_meihsiu",
@@ -27446,6 +27544,12 @@
     "path": "data/people/p_liu_haoran.json"
   },
   {
+    "id": "p_liu_heng",
+    "name": "Liu Heng",
+    "birth_year": 1954,
+    "path": "data/people/p_liu_heng.json"
+  },
+  {
     "id": "p_liu_hsiehmin",
     "name": "Liu Hsieh-Min",
     "path": "data/people/p_liu_hsiehmin.json"
@@ -28587,6 +28691,12 @@
     "path": "data/people/p_lizz_carter.json"
   },
   {
+    "id": "p_lizz_meiring",
+    "name": "Lizz Meiring",
+    "birth_year": 1961,
+    "path": "data/people/p_lizz_meiring.json"
+  },
+  {
     "id": "p_lizz_njagah",
     "name": "Lizz Njagah",
     "path": "data/people/p_lizz_njagah.json"
@@ -29069,6 +29179,12 @@
     "name": "Lluís Xavier Villanueva",
     "birth_year": 1967,
     "path": "data/people/p_lluis_xavier_villanueva.json"
+  },
+  {
+    "id": "p_lluisa_cunille",
+    "name": "Lluïsa Cunillé",
+    "birth_year": 1961,
+    "path": "data/people/p_lluisa_cunille.json"
   },
   {
     "id": "p_lluisanton_baulenas",
@@ -30396,6 +30512,12 @@
     "id": "p_lonzo_nzekwe",
     "name": "Lonzo Nzekwe",
     "path": "data/people/p_lonzo_nzekwe.json"
+  },
+  {
+    "id": "p_loo_hui_phang",
+    "name": "Loo Hui Phang",
+    "birth_year": 1974,
+    "path": "data/people/p_loo_hui_phang.json"
   },
   {
     "id": "p_loon",
@@ -31830,6 +31952,12 @@
     "path": "data/people/p_lothar_j_riedl.json"
   },
   {
+    "id": "p_lothar_kurzawa",
+    "name": "Lothar Kurzawa",
+    "birth_year": 1951,
+    "path": "data/people/p_lothar_kurzawa.json"
+  },
+  {
     "id": "p_lothar_scherpe",
     "name": "Lothar Scherpe",
     "birth_year": 1999,
@@ -32390,6 +32518,12 @@
     "name": "Louda Ben Salah-Cazanas",
     "birth_year": 1987,
     "path": "data/people/p_louda_ben_salahcazanas.json"
+  },
+  {
+    "id": "p_loudboy",
+    "name": "Loudboy",
+    "birth_year": 1967,
+    "path": "data/people/p_loudboy.json"
   },
   {
     "id": "p_loudon_wainwright_iii",
@@ -34926,6 +35060,12 @@
     "name": "Luca Di Capua",
     "birth_year": 1989,
     "path": "data/people/p_luca_di_capua.json"
+  },
+  {
+    "id": "p_luca_di_fulvio",
+    "name": "Luca Di Fulvio",
+    "birth_year": 1957,
+    "path": "data/people/p_luca_di_fulvio.json"
   },
   {
     "id": "p_luca_di_giovanni",
@@ -39546,6 +39686,11 @@
     "path": "data/people/p_luis_franco_brantley.json"
   },
   {
+    "id": "p_luis_furtado",
+    "name": "Luís Furtado",
+    "path": "data/people/p_luis_furtado.json"
+  },
+  {
     "id": "p_luis_galvao_teles",
     "name": "Luís Galvão Teles",
     "birth_year": 1945,
@@ -40040,6 +40185,12 @@
     "name": "Luis Sabatini",
     "birth_year": 1960,
     "path": "data/people/p_luis_sabatini.json"
+  },
+  {
+    "id": "p_luis_salazar",
+    "name": "Luis Salazar",
+    "birth_year": 1956,
+    "path": "data/people/p_luis_salazar.json"
   },
   {
     "id": "p_luis_salinas",
