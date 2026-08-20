@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lois_lowry",
+  "name": "Lois Lowry",
+  "external_ids": {
+    "wikidata": "Q238124",
+    "imdb": "nm0523342"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1937
+}

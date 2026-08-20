@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ludwig_goransson",
+  "name": "Ludwig Göransson",
+  "external_ids": {
+    "wikidata": "Q1358202",
+    "imdb": "nm3234869"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_groupe",
+  "name": "Larry Groupé",
+  "external_ids": {
+    "wikidata": "Q1690225",
+    "imdb": "nm0343935"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
