@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lambert",
+  "name": "Lambert",
+  "external_ids": {
+    "wikidata": "Q28811916",
+    "imdb": "nm7154275"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}
