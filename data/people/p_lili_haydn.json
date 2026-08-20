@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lili_haydn",
+  "name": "Lili Haydn",
+  "external_ids": {
+    "wikidata": "Q51603",
+    "imdb": "nm0370768"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
