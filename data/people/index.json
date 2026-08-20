@@ -145,6 +145,11 @@
     "path": "data/people/p_la_paquera_de_jerez.json"
   },
   {
+    "id": "p_la_petite_sonja",
+    "name": "La Petite Sonja",
+    "path": "data/people/p_la_petite_sonja.json"
+  },
+  {
     "id": "p_la_prohibida",
     "name": "La Prohibida",
     "birth_year": 1971,
@@ -1380,6 +1385,12 @@
     "path": "data/people/p_lajos_cs_nemeth.json"
   },
   {
+    "id": "p_lajos_galambos",
+    "name": "Lajos Galambos",
+    "birth_year": 1929,
+    "path": "data/people/p_lajos_galambos.json"
+  },
+  {
     "id": "p_lajos_garday",
     "name": "Lajos Gárday",
     "birth_year": 1884,
@@ -1426,6 +1437,12 @@
     "name": "Lajos Őze",
     "birth_year": 1935,
     "path": "data/people/p_lajos_oze.json"
+  },
+  {
+    "id": "p_lajos_szilvasi",
+    "name": "Lajos Szilvási",
+    "birth_year": 1932,
+    "path": "data/people/p_lajos_szilvasi.json"
   },
   {
     "id": "p_laju_iren",
@@ -5985,7 +6002,7 @@
   {
     "id": "p_laura_garcia_alonso",
     "name": "Laura Garcia Alonso",
-    "birth_year": 1990,
+    "birth_year": 1989,
     "path": "data/people/p_laura_garcia_alonso.json"
   },
   {
@@ -6062,6 +6079,11 @@
     "id": "p_laura_halilovic",
     "name": "Laura Halilovic",
     "path": "data/people/p_laura_halilovic.json"
+  },
+  {
+    "id": "p_laura_hankin",
+    "name": "Laura Hankin",
+    "path": "data/people/p_laura_hankin.json"
   },
   {
     "id": "p_laura_happonen",
@@ -6398,6 +6420,11 @@
     "name": "Laura Marinoni",
     "birth_year": 1961,
     "path": "data/people/p_laura_marinoni.json"
+  },
+  {
+    "id": "p_laura_martel",
+    "name": "Laura Martel",
+    "path": "data/people/p_laura_martel.json"
   },
   {
     "id": "p_laura_martin",
@@ -10212,8 +10239,8 @@
   },
   {
     "id": "p_le_khanh",
-    "name": "Lê Khánh",
-    "birth_year": 1981,
+    "name": "Lê Khanh",
+    "birth_year": 1963,
     "path": "data/people/p_le_khanh.json"
   },
   {
@@ -12421,7 +12448,7 @@
   {
     "id": "p_lee_jongwon",
     "name": "Lee Jong-won",
-    "birth_year": 1969,
+    "birth_year": 1994,
     "path": "data/people/p_lee_jongwon.json"
   },
   {
@@ -14493,6 +14520,12 @@
     "name": "Leif Mohlin",
     "birth_year": 1958,
     "path": "data/people/p_leif_mohlin.json"
+  },
+  {
+    "id": "p_leif_randt",
+    "name": "Leif Randt",
+    "birth_year": 1982,
+    "path": "data/people/p_leif_randt.json"
   },
   {
     "id": "p_leif_segerstam",
@@ -17106,6 +17139,11 @@
     "name": "Leon Haft-one",
     "birth_year": 1966,
     "path": "data/people/p_leon_haftone.json"
+  },
+  {
+    "id": "p_leon_hendrix",
+    "name": "Leon Hendrix",
+    "path": "data/people/p_leon_hendrix.json"
   },
   {
     "id": "p_leon_herbert",
@@ -20559,7 +20597,7 @@
   {
     "id": "p_lexie_bean",
     "name": "Lexie Bean",
-    "birth_year": 1992,
+    "birth_year": 1991,
     "path": "data/people/p_lexie_bean.json"
   },
   {
@@ -30708,6 +30746,11 @@
     "path": "data/people/p_locket_chatterjee.json"
   },
   {
+    "id": "p_lode_desmet",
+    "name": "Lode Desmet",
+    "path": "data/people/p_lode_desmet.json"
+  },
+  {
     "id": "p_lodewijk_crijns",
     "name": "Lodewijk Crijns",
     "birth_year": 1970,
@@ -31638,6 +31681,12 @@
     "name": "Lolita Ritmanis",
     "birth_year": 1962,
     "path": "data/people/p_lolita_ritmanis.json"
+  },
+  {
+    "id": "p_lolita_sechan",
+    "name": "Lolita Séchan",
+    "birth_year": 1980,
+    "path": "data/people/p_lolita_sechan.json"
   },
   {
     "id": "p_lollo_franco",
@@ -34182,6 +34231,12 @@
     "name": "Louis de Funès",
     "birth_year": 1914,
     "path": "data/people/p_louis_de_funes.json"
+  },
+  {
+    "id": "p_louis_de_jaeger",
+    "name": "Louis De Jaeger",
+    "birth_year": 1994,
+    "path": "data/people/p_louis_de_jaeger.json"
   },
   {
     "id": "p_louis_doyle",
@@ -37297,6 +37352,12 @@
     "name": "Lucas Hansen",
     "birth_year": 1979,
     "path": "data/people/p_lucas_hansen.json"
+  },
+  {
+    "id": "p_lucas_harari",
+    "name": "Lucas Harari",
+    "birth_year": 1990,
+    "path": "data/people/p_lucas_harari.json"
   },
   {
     "id": "p_lucas_hardt",
@@ -40563,6 +40624,11 @@
     "path": "data/people/p_ludvig_forssell.json"
   },
   {
+    "id": "p_ludvig_klint",
+    "name": "Ludvig Klint",
+    "path": "data/people/p_ludvig_klint.json"
+  },
+  {
     "id": "p_ludvig_nilsson",
     "name": "Ludvig Nilsson",
     "path": "data/people/p_ludvig_nilsson.json"
@@ -41441,6 +41507,12 @@
     "path": "data/people/p_luis_eduardo_reyes.json"
   },
   {
+    "id": "p_luis_emilio_guzman",
+    "name": "Luis Emilio Guzmán",
+    "birth_year": 1973,
+    "path": "data/people/p_luis_emilio_guzman.json"
+  },
+  {
     "id": "p_luis_engebrigtsen_bye",
     "name": "Luis Engebrigtsen Bye",
     "path": "data/people/p_luis_engebrigtsen_bye.json"
@@ -41771,7 +41843,7 @@
   {
     "id": "p_luis_manso",
     "name": "Luis Manso",
-    "birth_year": 1960,
+    "birth_year": 1959,
     "path": "data/people/p_luis_manso.json"
   },
   {
