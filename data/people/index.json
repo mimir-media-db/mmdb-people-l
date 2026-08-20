@@ -5917,7 +5917,7 @@
   {
     "id": "p_laura_fernandez_espeso",
     "name": "Laura Fernández Espeso",
-    "birth_year": 1972,
+    "birth_year": 1971,
     "path": "data/people/p_laura_fernandez_espeso.json"
   },
   {
@@ -6994,7 +6994,7 @@
   {
     "id": "p_laura_weissmahr",
     "name": "Laura Weissmahr",
-    "birth_year": 1992,
+    "birth_year": 1991,
     "path": "data/people/p_laura_weissmahr.json"
   },
   {
@@ -8444,6 +8444,12 @@
     "path": "data/people/p_laurent_jalabert.json"
   },
   {
+    "id": "p_laurent_jaoui",
+    "name": "Laurent Jaoui",
+    "birth_year": 1967,
+    "path": "data/people/p_laurent_jaoui.json"
+  },
+  {
     "id": "p_laurent_klug",
     "name": "Laurent Klug",
     "birth_year": 1963,
@@ -9135,6 +9141,11 @@
     "path": "data/people/p_laurie_metcalf.json"
   },
   {
+    "id": "p_laurie_perron",
+    "name": "Laurie Perron",
+    "path": "data/people/p_laurie_perron.json"
+  },
+  {
     "id": "p_laurie_pominville",
     "name": "Laurie Pominville",
     "path": "data/people/p_laurie_pominville.json"
@@ -9149,6 +9160,12 @@
     "name": "Laurie Simmons",
     "birth_year": 1949,
     "path": "data/people/p_laurie_simmons.json"
+  },
+  {
+    "id": "p_laurie_spiegel",
+    "name": "Laurie Spiegel",
+    "birth_year": 1945,
+    "path": "data/people/p_laurie_spiegel.json"
   },
   {
     "id": "p_laurie_trombley",
@@ -9511,7 +9528,7 @@
   {
     "id": "p_lawrence_chaney",
     "name": "Lawrence Chaney",
-    "birth_year": 1996,
+    "birth_year": 1997,
     "path": "data/people/p_lawrence_chaney.json"
   },
   {
@@ -11787,8 +11804,8 @@
   },
   {
     "id": "p_lee_haeyoung",
-    "name": "Lee Hae-young",
-    "birth_year": 1973,
+    "name": "Lee Haeyoung",
+    "birth_year": 1962,
     "path": "data/people/p_lee_haeyoung.json"
   },
   {
@@ -13433,7 +13450,7 @@
   {
     "id": "p_lee_sookyung",
     "name": "Lee Soo-kyung",
-    "birth_year": 1996,
+    "birth_year": 1982,
     "path": "data/people/p_lee_sookyung.json"
   },
   {
@@ -17925,6 +17942,11 @@
     "path": "data/people/p_leonardo_sbaraglia.json"
   },
   {
+    "id": "p_leonardo_tello_imaina",
+    "name": "Leonardo Tello Imaina",
+    "path": "data/people/p_leonardo_tello_imaina.json"
+  },
+  {
     "id": "p_leonardo_tonitza",
     "name": "Leonardo Tonitza",
     "path": "data/people/p_leonardo_tonitza.json"
@@ -18964,7 +18986,7 @@
   {
     "id": "p_lesley_barber",
     "name": "Lesley Barber",
-    "birth_year": 1968,
+    "birth_year": 1961,
     "path": "data/people/p_lesley_barber.json"
   },
   {
@@ -23400,6 +23422,11 @@
     "path": "data/people/p_lilja_van_der_zwaag.json"
   },
   {
+    "id": "p_lill_kristine_anda",
+    "name": "Lill Kristine Anda",
+    "path": "data/people/p_lill_kristine_anda.json"
+  },
+  {
     "id": "p_lilla_crawford",
     "name": "Lilla Crawford",
     "birth_year": 2001,
@@ -24397,7 +24424,7 @@
   {
     "id": "p_lin_yongjian",
     "name": "Lin Yongjian",
-    "birth_year": 1969,
+    "birth_year": 1970,
     "path": "data/people/p_lin_yongjian.json"
   },
   {
@@ -25069,6 +25096,12 @@
     "name": "Linda Kolde",
     "birth_year": 1990,
     "path": "data/people/p_linda_kolde.json"
+  },
+  {
+    "id": "p_linda_konig",
+    "name": "Linda König",
+    "birth_year": 1998,
+    "path": "data/people/p_linda_konig.json"
   },
   {
     "id": "p_linda_korsten",
@@ -25904,6 +25937,11 @@
     "name": "Line Kruse",
     "birth_year": 1975,
     "path": "data/people/p_line_kruse.json"
+  },
+  {
+    "id": "p_line_langebek",
+    "name": "Line Langebek",
+    "path": "data/people/p_line_langebek.json"
   },
   {
     "id": "p_line_mrkeby",
@@ -26788,6 +26826,12 @@
     "id": "p_lisa_ades",
     "name": "Lisa Ades",
     "path": "data/people/p_lisa_ades.json"
+  },
+  {
+    "id": "p_lisa_aisato_njie_solberg",
+    "name": "Lisa Aisato Njie Solberg",
+    "birth_year": 1981,
+    "path": "data/people/p_lisa_aisato_njie_solberg.json"
   },
   {
     "id": "p_lisa_albright",
@@ -28063,7 +28107,6 @@
   {
     "id": "p_lisa_wagner",
     "name": "Lisa Wagner",
-    "birth_year": 1979,
     "path": "data/people/p_lisa_wagner.json"
   },
   {
@@ -30529,6 +30572,12 @@
     "path": "data/people/p_loan_laure.json"
   },
   {
+    "id": "p_loay_elsayed",
+    "name": "Loay Elsayed",
+    "birth_year": 1979,
+    "path": "data/people/p_loay_elsayed.json"
+  },
+  {
     "id": "p_lobke_de_boer",
     "name": "Lobke de Boer",
     "birth_year": 1997,
@@ -30792,6 +30841,12 @@
     "name": "Logan Miller",
     "birth_year": 1992,
     "path": "data/people/p_logan_miller.json"
+  },
+  {
+    "id": "p_logan_nelson",
+    "name": "Logan Nelson",
+    "birth_year": 1996,
+    "path": "data/people/p_logan_nelson.json"
   },
   {
     "id": "p_logan_obrien",
@@ -31452,6 +31507,12 @@
     "name": "Loli Astoreka",
     "birth_year": 1958,
     "path": "data/people/p_loli_astoreka.json"
+  },
+  {
+    "id": "p_loli_molina",
+    "name": "Loli Molina",
+    "birth_year": 1986,
+    "path": "data/people/p_loli_molina.json"
   },
   {
     "id": "p_lolita",
@@ -39482,6 +39543,12 @@
     "path": "data/people/p_lucrecia_cisneros.json"
   },
   {
+    "id": "p_lucrecia_dalt",
+    "name": "Lucrecia Dalt",
+    "birth_year": 1979,
+    "path": "data/people/p_lucrecia_dalt.json"
+  },
+  {
     "id": "p_lucrecia_martel",
     "name": "Lucrecia Martel",
     "birth_year": 1966,
@@ -43956,6 +44023,11 @@
     "path": "data/people/p_luke_sparke.json"
   },
   {
+    "id": "p_luke_spencer_roberts",
+    "name": "Luke Spencer Roberts",
+    "path": "data/people/p_luke_spencer_roberts.json"
+  },
+  {
     "id": "p_luke_spill",
     "name": "Luke Spill",
     "birth_year": 1995,
@@ -44499,6 +44571,12 @@
     "id": "p_luo_yukun",
     "name": "Luo Yukun",
     "path": "data/people/p_luo_yukun.json"
+  },
+  {
+    "id": "p_luong_kim_lien",
+    "name": "Lương Kim Liên",
+    "birth_year": 1974,
+    "path": "data/people/p_luong_kim_lien.json"
   },
   {
     "id": "p_luong_minh",
@@ -46083,5 +46161,11 @@
     "id": "p_lyv_nazaryan",
     "name": "Lyv Nazaryan",
     "path": "data/people/p_lyv_nazaryan.json"
+  },
+  {
+    "id": "p_lyyti",
+    "name": "Lyyti",
+    "birth_year": 1993,
+    "path": "data/people/p_lyyti.json"
   }
 ]
