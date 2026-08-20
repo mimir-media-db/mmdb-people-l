@@ -1659,6 +1659,12 @@
     "path": "data/people/p_laleh_marzban.json"
   },
   {
+    "id": "p_lalgudi_jayaraman",
+    "name": "Lalgudi Jayaraman",
+    "birth_year": 1930,
+    "path": "data/people/p_lalgudi_jayaraman.json"
+  },
+  {
     "id": "p_lali_esposito",
     "name": "Lali Espósito",
     "birth_year": 1991,
@@ -8148,6 +8154,11 @@
     "path": "data/people/p_laurent_grevill.json"
   },
   {
+    "id": "p_laurent_guyot",
+    "name": "Laurent Guyot",
+    "path": "data/people/p_laurent_guyot.json"
+  },
+  {
     "id": "p_laurent_herbiet",
     "name": "Laurent Herbiet",
     "birth_year": 1961,
@@ -8334,6 +8345,12 @@
     "name": "Laurent Pasquier",
     "birth_year": 1962,
     "path": "data/people/p_laurent_pasquier.json"
+  },
+  {
+    "id": "p_laurent_perez_del_mar",
+    "name": "Laurent Perez del Mar",
+    "birth_year": 1974,
+    "path": "data/people/p_laurent_perez_del_mar.json"
   },
   {
     "id": "p_laurent_perreau",
@@ -8651,6 +8668,12 @@
     "name": "Lauri Pedaja",
     "birth_year": 1987,
     "path": "data/people/p_lauri_pedaja.json"
+  },
+  {
+    "id": "p_lauri_porra",
+    "name": "Lauri Porra",
+    "birth_year": 1977,
+    "path": "data/people/p_lauri_porra.json"
   },
   {
     "id": "p_lauri_randla",
@@ -16186,6 +16209,12 @@
     "path": "data/people/p_leo_nielsen.json"
   },
   {
+    "id": "p_leo_ortolani",
+    "name": "Leo Ortolani",
+    "birth_year": 1967,
+    "path": "data/people/p_leo_ortolani.json"
+  },
+  {
     "id": "p_leo_paget",
     "name": "Léo Paget",
     "birth_year": 1993,
@@ -16970,6 +16999,12 @@
     "name": "Leonard Valestrand Eike",
     "birth_year": 2005,
     "path": "data/people/p_leonard_valestrand_eike.json"
+  },
+  {
+    "id": "p_leonard_wolf",
+    "name": "Leonard Wolf",
+    "birth_year": 1923,
+    "path": "data/people/p_leonard_wolf.json"
   },
   {
     "id": "p_leonard_zelig",
@@ -18598,6 +18633,12 @@
     "path": "data/people/p_leslie_mann.json"
   },
   {
+    "id": "p_leslie_megahey",
+    "name": "Leslie Megahey",
+    "birth_year": 1944,
+    "path": "data/people/p_leslie_megahey.json"
+  },
+  {
     "id": "p_leslie_morgenstein",
     "name": "Leslie Morgenstein",
     "path": "data/people/p_leslie_morgenstein.json"
@@ -19128,6 +19169,12 @@
     "name": "Lev Yeliseev",
     "birth_year": 1934,
     "path": "data/people/p_lev_yeliseev.json"
+  },
+  {
+    "id": "p_lev_zemlinsky",
+    "name": "Lev Zemlinsky",
+    "birth_year": 1958,
+    "path": "data/people/p_lev_zemlinsky.json"
   },
   {
     "id": "p_lev_zulkarnaev",
@@ -19915,6 +19962,12 @@
     "name": "Lhamkhuu Jagdamba",
     "birth_year": 1939,
     "path": "data/people/p_lhamkhuu_jagdamba.json"
+  },
+  {
+    "id": "p_lhasa_de_sela",
+    "name": "Lhasa de Sela",
+    "birth_year": 1972,
+    "path": "data/people/p_lhasa_de_sela.json"
   },
   {
     "id": "p_li_ai",
@@ -21624,6 +21677,12 @@
     "path": "data/people/p_lightnin_hopkins.json"
   },
   {
+    "id": "p_ligiah_villalobos",
+    "name": "Ligiah Villalobos",
+    "birth_year": 1963,
+    "path": "data/people/p_ligiah_villalobos.json"
+  },
+  {
     "id": "p_ligita_lukstraupe",
     "name": "Ligita Lukstraupe",
     "birth_year": 1961,
@@ -22255,6 +22314,12 @@
     "id": "p_liliana_alvarez",
     "name": "Liliana Álvarez",
     "path": "data/people/p_liliana_alvarez.json"
+  },
+  {
+    "id": "p_liliana_betti",
+    "name": "Liliana Betti",
+    "birth_year": 1936,
+    "path": "data/people/p_liliana_betti.json"
   },
   {
     "id": "p_liliana_biamonte",
@@ -28264,6 +28329,11 @@
     "path": "data/people/p_livio_lorenzon.json"
   },
   {
+    "id": "p_livio_morosin",
+    "name": "Livio Morosin",
+    "path": "data/people/p_livio_morosin.json"
+  },
+  {
     "id": "p_livio_tragtenberg",
     "name": "Livio Tragtenberg",
     "birth_year": 1960,
@@ -31837,6 +31907,12 @@
     "path": "data/people/p_loris_sichrovsky.json"
   },
   {
+    "id": "p_loris_tjeknavorian",
+    "name": "Loris Tjeknavorian",
+    "birth_year": 1937,
+    "path": "data/people/p_loris_tjeknavorian.json"
+  },
+  {
     "id": "p_lorissa_mccomas",
     "name": "Lorissa McComas",
     "birth_year": 1970,
@@ -35243,6 +35319,12 @@
     "path": "data/people/p_luca_colombo.json"
   },
   {
+    "id": "p_luca_dalisera",
+    "name": "Luca D'Alisera",
+    "birth_year": 1981,
+    "path": "data/people/p_luca_dalisera.json"
+  },
+  {
     "id": "p_luca_damiano",
     "name": "Luca Damiano",
     "birth_year": 1946,
@@ -35505,6 +35587,12 @@
     "name": "Luca Peracino",
     "birth_year": 1987,
     "path": "data/people/p_luca_peracino.json"
+  },
+  {
+    "id": "p_luca_poldelmengo",
+    "name": "Luca Poldelmengo",
+    "birth_year": 1973,
+    "path": "data/people/p_luca_poldelmengo.json"
   },
   {
     "id": "p_luca_ragazzi",
@@ -37000,6 +37088,12 @@
     "path": "data/people/p_luciano_stella.json"
   },
   {
+    "id": "p_luciano_supervielle",
+    "name": "Luciano Supervielle",
+    "birth_year": 1976,
+    "path": "data/people/p_luciano_supervielle.json"
+  },
+  {
     "id": "p_luciano_szafir",
     "name": "Luciano Szafir",
     "birth_year": 1968,
@@ -37234,6 +37328,12 @@
     "name": "Lucie Ingrová",
     "birth_year": 1990,
     "path": "data/people/p_lucie_ingrova.json"
+  },
+  {
+    "id": "p_lucie_j_lipschutz",
+    "name": "Lucie J. Lipschutz",
+    "birth_year": 1929,
+    "path": "data/people/p_lucie_j_lipschutz.json"
   },
   {
     "id": "p_lucie_jeanne",
@@ -38482,6 +38582,12 @@
     "name": "Luděk Čtvrtlík",
     "birth_year": 1959,
     "path": "data/people/p_ludek_ctvrtlik.json"
+  },
+  {
+    "id": "p_ludek_drizhal",
+    "name": "Ludek Drizhal",
+    "birth_year": 1966,
+    "path": "data/people/p_ludek_drizhal.json"
   },
   {
     "id": "p_ludek_elias",
@@ -40615,6 +40721,12 @@
     "name": "Luisa Corna",
     "birth_year": 1965,
     "path": "data/people/p_luisa_corna.json"
+  },
+  {
+    "id": "p_luisa_costa_gomes",
+    "name": "Luísa Costa Gomes",
+    "birth_year": 1954,
+    "path": "data/people/p_luisa_costa_gomes.json"
   },
   {
     "id": "p_luisa_cruz",
@@ -44405,6 +44517,12 @@
     "name": "Lyudmyla Yefymenko",
     "birth_year": 1951,
     "path": "data/people/p_lyudmyla_yefymenko.json"
+  },
+  {
+    "id": "p_lyuko_dashvar",
+    "name": "Lyuko Dashvar",
+    "birth_year": 1954,
+    "path": "data/people/p_lyuko_dashvar.json"
   },
   {
     "id": "p_lyv_nazaryan",
