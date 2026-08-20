@@ -3742,6 +3742,12 @@
     "path": "data/people/p_larry_strong.json"
   },
   {
+    "id": "p_larry_stuckey",
+    "name": "Larry Stuckey",
+    "birth_year": 1952,
+    "path": "data/people/p_larry_stuckey.json"
+  },
+  {
     "id": "p_larry_sulkis",
     "name": "Larry Sulkis",
     "path": "data/people/p_larry_sulkis.json"
@@ -4676,6 +4682,18 @@
     "name": "Lasse Diding",
     "birth_year": 1953,
     "path": "data/people/p_lasse_diding.json"
+  },
+  {
+    "id": "p_lasse_enersen",
+    "name": "Lasse Enersen",
+    "birth_year": 1977,
+    "path": "data/people/p_lasse_enersen.json"
+  },
+  {
+    "id": "p_lasse_englund",
+    "name": "Lasse Englund",
+    "birth_year": 1951,
+    "path": "data/people/p_lasse_englund.json"
   },
   {
     "id": "p_lasse_fagerstrom",
@@ -8572,6 +8590,12 @@
     "path": "data/people/p_laurent_vinasraymond.json"
   },
   {
+    "id": "p_laurent_voulzy",
+    "name": "Laurent Voulzy",
+    "birth_year": 1948,
+    "path": "data/people/p_laurent_voulzy.json"
+  },
+  {
     "id": "p_laurent_zeitoun",
     "name": "Laurent Zeitoun",
     "birth_year": 1973,
@@ -8755,6 +8779,12 @@
     "name": "Laurice Guillen",
     "birth_year": 1947,
     "path": "data/people/p_laurice_guillen.json"
+  },
+  {
+    "id": "p_lauridag_tuur",
+    "name": "Lauri-Dag Tüür",
+    "birth_year": 1981,
+    "path": "data/people/p_lauridag_tuur.json"
   },
   {
     "id": "p_laurids_rolann",
@@ -9474,6 +9504,11 @@
     "id": "p_lawrence_riggins",
     "name": "Lawrence Riggins",
     "path": "data/people/p_lawrence_riggins.json"
+  },
+  {
+    "id": "p_lawrence_robinson",
+    "name": "Lawrence Robinson",
+    "path": "data/people/p_lawrence_robinson.json"
   },
   {
     "id": "p_lawrence_roeck",
@@ -14500,6 +14535,12 @@
     "path": "data/people/p_leiv_igor_devold.json"
   },
   {
+    "id": "p_leiva",
+    "name": "Leiva",
+    "birth_year": 1980,
+    "path": "data/people/p_leiva.json"
+  },
+  {
     "id": "p_lejla_abbasova",
     "name": "Lejla Abbasová",
     "birth_year": 1980,
@@ -14737,6 +14778,12 @@
     "id": "p_len_amato",
     "name": "Len Amato",
     "path": "data/people/p_len_amato.json"
+  },
+  {
+    "id": "p_len_arran",
+    "name": "Len Arran",
+    "birth_year": 1961,
+    "path": "data/people/p_len_arran.json"
   },
   {
     "id": "p_len_blavatnik",
@@ -16371,6 +16418,12 @@
     "path": "data/people/p_leo_sheng.json"
   },
   {
+    "id": "p_leo_sidran",
+    "name": "Leo Sidran",
+    "birth_year": 1976,
+    "path": "data/people/p_leo_sidran.json"
+  },
+  {
     "id": "p_leo_staar",
     "name": "Leo Staar",
     "birth_year": 1986,
@@ -16993,6 +17046,12 @@
     "name": "Leonard Lansink",
     "birth_year": 1956,
     "path": "data/people/p_leonard_lansink.json"
+  },
+  {
+    "id": "p_leonard_lasry",
+    "name": "Léonard Lasry",
+    "birth_year": 1982,
+    "path": "data/people/p_leonard_lasry.json"
   },
   {
     "id": "p_leonard_maltin",
@@ -20771,6 +20830,12 @@
     "id": "p_liam_hooper",
     "name": "Liam Hooper",
     "path": "data/people/p_liam_hooper.json"
+  },
+  {
+    "id": "p_liam_howe",
+    "name": "Liam Howe",
+    "birth_year": 1974,
+    "path": "data/people/p_liam_howe.json"
   },
   {
     "id": "p_liam_hughes",
@@ -24798,6 +24863,11 @@
     "path": "data/people/p_lindamaria_birbeck.json"
   },
   {
+    "id": "p_linde_nijland",
+    "name": "Linde Nijland",
+    "path": "data/people/p_linde_nijland.json"
+  },
+  {
     "id": "p_linde_prelog",
     "name": "Linde Prelog",
     "birth_year": 1949,
@@ -25753,6 +25823,12 @@
     "name": "Lionel Nallet",
     "birth_year": 1976,
     "path": "data/people/p_lionel_nallet.json"
+  },
+  {
+    "id": "p_lionel_olenga",
+    "name": "Lionel Olenga",
+    "birth_year": 1972,
+    "path": "data/people/p_lionel_olenga.json"
   },
   {
     "id": "p_lionel_pina",
@@ -30624,6 +30700,12 @@
     "path": "data/people/p_lolita_milyavskaya.json"
   },
   {
+    "id": "p_lolita_ray",
+    "name": "Lolita Ray",
+    "birth_year": 1957,
+    "path": "data/people/p_lolita_ray.json"
+  },
+  {
     "id": "p_lolita_ritmanis",
     "name": "Lolita Ritmanis",
     "birth_year": 1962,
@@ -31082,6 +31164,12 @@
     "name": "Loreece Harrison",
     "birth_year": 1994,
     "path": "data/people/p_loreece_harrison.json"
+  },
+  {
+    "id": "p_loreena_mckennitt",
+    "name": "Loreena McKennitt",
+    "birth_year": 1957,
+    "path": "data/people/p_loreena_mckennitt.json"
   },
   {
     "id": "p_lorelei_king",
@@ -31909,6 +31997,12 @@
     "name": "Lori Fung",
     "birth_year": 1963,
     "path": "data/people/p_lori_fung.json"
+  },
+  {
+    "id": "p_lori_goldston",
+    "name": "Lori Goldston",
+    "birth_year": 1962,
+    "path": "data/people/p_lori_goldston.json"
   },
   {
     "id": "p_lori_hallier",
@@ -33097,6 +33191,12 @@
     "name": "Louis Duneton",
     "birth_year": 1995,
     "path": "data/people/p_louis_duneton.json"
+  },
+  {
+    "id": "p_louis_durra",
+    "name": "Louis Durra",
+    "birth_year": 1961,
+    "path": "data/people/p_louis_durra.json"
   },
   {
     "id": "p_louis_dussol",
@@ -34778,6 +34878,12 @@
     "id": "p_lubomir_bura",
     "name": "Lubomír Bůra",
     "path": "data/people/p_lubomir_bura.json"
+  },
+  {
+    "id": "p_lubomir_feldek",
+    "name": "Ľubomír Feldek",
+    "birth_year": 1936,
+    "path": "data/people/p_lubomir_feldek.json"
   },
   {
     "id": "p_lubomir_herman",
@@ -37542,6 +37648,12 @@
     "path": "data/people/p_lucie_konasova.json"
   },
   {
+    "id": "p_lucie_konecna",
+    "name": "Lucie Konečná",
+    "birth_year": 1969,
+    "path": "data/people/p_lucie_konecna.json"
+  },
+  {
     "id": "p_lucie_korcova",
     "name": "Lucie Korcová",
     "birth_year": 1987,
@@ -38014,6 +38126,12 @@
     "name": "Lucinda Armstrong Hall",
     "birth_year": 1949,
     "path": "data/people/p_lucinda_armstrong_hall.json"
+  },
+  {
+    "id": "p_lucinda_coxon",
+    "name": "Lucinda Coxon",
+    "birth_year": 1961,
+    "path": "data/people/p_lucinda_coxon.json"
   },
   {
     "id": "p_lucinda_davis",
