@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_les_hooper",
+  "name": "Les Hooper",
+  "external_ids": {
+    "wikidata": "Q6529600",
+    "imdb": "nm0393772"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940
+}
