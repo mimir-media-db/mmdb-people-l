@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_louis_banks",
+  "name": "Louis Banks",
+  "external_ids": {
+    "wikidata": "Q4320690",
+    "imdb": "nm0052208"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1941
+}

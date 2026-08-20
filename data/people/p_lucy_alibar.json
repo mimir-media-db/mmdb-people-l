@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lucy_alibar",
+  "name": "Lucy Alibar",
+  "external_ids": {
+    "wikidata": "Q6449805",
+    "imdb": "nm3599054"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1982
+}
