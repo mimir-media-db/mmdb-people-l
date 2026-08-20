@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_mcmurtry",
+  "name": "Larry McMurtry",
+  "external_ids": {
+    "wikidata": "Q611672",
+    "imdb": "nm0573505"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1936,
+  "death_year": 2021
+}
