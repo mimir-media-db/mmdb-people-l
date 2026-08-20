@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lot_vekemans",
+  "name": "Lot Vekemans",
+  "external_ids": {
+    "wikidata": "Q2124424",
+    "imdb": "nm6356254"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1964
+}
