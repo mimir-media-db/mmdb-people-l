@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lito_vitale",
+  "name": "Lito Vitale",
+  "external_ids": {
+    "wikidata": "Q1396802",
+    "imdb": "nm0994140"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
