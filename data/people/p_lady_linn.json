@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lady_linn",
+  "name": "Lady Linn",
+  "external_ids": {
+    "wikidata": "Q781703",
+    "imdb": "nm3939185"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}
