@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lowkey",
+  "name": "Lowkey",
+  "external_ids": {
+    "wikidata": "Q631770",
+    "imdb": "nm11613560"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1986
+}
