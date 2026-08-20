@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leo_tolstoy",
+  "name": "Leo Tolstoy",
+  "external_ids": {
+    "wikidata": "Q7243",
+    "imdb": "nm0866243"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1828,
+  "death_year": 1910
+}
