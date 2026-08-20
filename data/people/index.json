@@ -4549,6 +4549,12 @@
     "path": "data/people/p_lars_varinger.json"
   },
   {
+    "id": "p_lars_voges",
+    "name": "Lars Voges",
+    "birth_year": 1974,
+    "path": "data/people/p_lars_voges.json"
+  },
+  {
     "id": "p_lars_von_trier",
     "name": "Lars von Trier",
     "birth_year": 1956,
@@ -22526,6 +22532,12 @@
     "path": "data/people/p_lili_gesler.json"
   },
   {
+    "id": "p_lili_haydn",
+    "name": "Lili Haydn",
+    "birth_year": 1969,
+    "path": "data/people/p_lili_haydn.json"
+  },
+  {
     "id": "p_lili_horvat",
     "name": "Lili Horvát",
     "birth_year": 1982,
@@ -27298,6 +27310,12 @@
     "path": "data/people/p_lisa_milroy.json"
   },
   {
+    "id": "p_lisa_montan",
+    "name": "Lisa Montan",
+    "birth_year": 1976,
+    "path": "data/people/p_lisa_montan.json"
+  },
+  {
     "id": "p_lisa_morton",
     "name": "Lisa Morton",
     "birth_year": 1958,
@@ -29061,6 +29079,12 @@
     "name": "Liz Goldwyn",
     "birth_year": 1976,
     "path": "data/people/p_liz_goldwyn.json"
+  },
+  {
+    "id": "p_liz_hannah",
+    "name": "Liz Hannah",
+    "birth_year": 1985,
+    "path": "data/people/p_liz_hannah.json"
   },
   {
     "id": "p_liz_hoffstrom",
@@ -32152,6 +32176,12 @@
     "path": "data/people/p_lorenzo_richelmy.json"
   },
   {
+    "id": "p_lorenzo_semple_jr",
+    "name": "Lorenzo Semple Jr.",
+    "birth_year": 1923,
+    "path": "data/people/p_lorenzo_semple_jr.json"
+  },
+  {
     "id": "p_lorenzo_silva",
     "name": "Lorenzo Silva",
     "birth_year": 1966,
@@ -32708,6 +32738,12 @@
     "name": "Lotár Radványi",
     "birth_year": 1930,
     "path": "data/people/p_lotar_radvanyi.json"
+  },
+  {
+    "id": "p_lote_eglite",
+    "name": "Lote Eglite",
+    "birth_year": 1981,
+    "path": "data/people/p_lote_eglite.json"
   },
   {
     "id": "p_loten_namling",
@@ -38462,6 +38498,12 @@
     "path": "data/people/p_lucien_ratio.json"
   },
   {
+    "id": "p_lucien_revolucien",
+    "name": "Lucien Revolucien",
+    "birth_year": 1952,
+    "path": "data/people/p_lucien_revolucien.json"
+  },
+  {
     "id": "p_lucien_van_geffen",
     "name": "Lucien van Geffen",
     "birth_year": 1987,
@@ -43618,6 +43660,11 @@
     "path": "data/people/p_lumir_holcak.json"
   },
   {
+    "id": "p_lumir_hrma",
+    "name": "Lumír Hrma",
+    "path": "data/people/p_lumir_hrma.json"
+  },
+  {
     "id": "p_lumir_kunc",
     "name": "Lumír Kunc",
     "path": "data/people/p_lumir_kunc.json"
@@ -43957,6 +44004,12 @@
     "id": "p_lusine_vardanian",
     "name": "Lusine Vardanian",
     "path": "data/people/p_lusine_vardanian.json"
+  },
+  {
+    "id": "p_lustmord",
+    "name": "Lustmord",
+    "birth_year": 1964,
+    "path": "data/people/p_lustmord.json"
   },
   {
     "id": "p_lut_hannes",
@@ -45135,6 +45188,18 @@
     "id": "p_lysser_andersen",
     "name": "Lysser Andersen",
     "path": "data/people/p_lysser_andersen.json"
+  },
+  {
+    "id": "p_lyuba_yakimchuk",
+    "name": "Lyuba Yakimchuk",
+    "birth_year": 1985,
+    "path": "data/people/p_lyuba_yakimchuk.json"
+  },
+  {
+    "id": "p_lyubasha",
+    "name": "Lyubasha",
+    "birth_year": 1967,
+    "path": "data/people/p_lyubasha.json"
   },
   {
     "id": "p_lyuben_chatalov",
