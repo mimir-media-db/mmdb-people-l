@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_line_mrkeby",
+  "name": "Line Mørkeby",
+  "external_ids": {
+    "wikidata": "Q64514142",
+    "imdb": "nm5761810"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}
