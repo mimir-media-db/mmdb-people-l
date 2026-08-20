@@ -439,6 +439,11 @@
     "path": "data/people/p_laddi.json"
   },
   {
+    "id": "p_laddy_mankos",
+    "name": "Laddy Mankos",
+    "path": "data/people/p_laddy_mankos.json"
+  },
+  {
     "id": "p_ladell_preston",
     "name": "LaDell Preston",
     "path": "data/people/p_ladell_preston.json"
@@ -760,6 +765,11 @@
     "path": "data/people/p_ladislav_trojan.json"
   },
   {
+    "id": "p_ladislav_zensor",
+    "name": "Ladislav Zensor",
+    "path": "data/people/p_ladislav_zensor.json"
+  },
+  {
     "id": "p_ladislav_zima",
     "name": "Ladislav Zima",
     "path": "data/people/p_ladislav_zima.json"
@@ -940,6 +950,11 @@
     "id": "p_laetitia_moreau",
     "name": "Laetitia Moreau",
     "path": "data/people/p_laetitia_moreau.json"
+  },
+  {
+    "id": "p_laetitia_pansanel_garric",
+    "name": "Laetitia Pansanel Garric",
+    "path": "data/people/p_laetitia_pansanel_garric.json"
   },
   {
     "id": "p_laetitia_pesenti",
@@ -4269,6 +4284,12 @@
     "path": "data/people/p_lars_jacobsen.json"
   },
   {
+    "id": "p_lars_jacobson",
+    "name": "Lars Jacobson",
+    "birth_year": 1977,
+    "path": "data/people/p_lars_jacobson.json"
+  },
+  {
     "id": "p_lars_jessen",
     "name": "Lars Jessen",
     "birth_year": 1969,
@@ -6653,6 +6674,12 @@
     "path": "data/people/p_laura_ramsey.json"
   },
   {
+    "id": "p_laura_raud",
+    "name": "Laura Raud",
+    "birth_year": 1994,
+    "path": "data/people/p_laura_raud.json"
+  },
+  {
     "id": "p_laura_regan",
     "name": "Laura Regan",
     "birth_year": 1977,
@@ -7784,6 +7811,12 @@
     "name": "Laurence Coriat",
     "birth_year": 1900,
     "path": "data/people/p_laurence_coriat.json"
+  },
+  {
+    "id": "p_laurence_cosse",
+    "name": "Laurence Cossé",
+    "birth_year": 1949,
+    "path": "data/people/p_laurence_cosse.json"
   },
   {
     "id": "p_laurence_cote",
@@ -16877,6 +16910,12 @@
     "path": "data/people/p_leo_verrier.json"
   },
   {
+    "id": "p_leo_viirret",
+    "name": "Leo Viirret",
+    "birth_year": 1966,
+    "path": "data/people/p_leo_viirret.json"
+  },
+  {
     "id": "p_leo_wayne_jampijinpa",
     "name": "Leo Wayne Jampijinpa",
     "path": "data/people/p_leo_wayne_jampijinpa.json"
@@ -18448,6 +18487,12 @@
     "name": "Leonor Martín",
     "birth_year": 1989,
     "path": "data/people/p_leonor_martin.json"
+  },
+  {
+    "id": "p_leonor_noivo",
+    "name": "Leonor Noivo",
+    "birth_year": 1975,
+    "path": "data/people/p_leonor_noivo.json"
   },
   {
     "id": "p_leonor_seixas",
@@ -22019,6 +22064,11 @@
     "path": "data/people/p_lichi_hsu.json"
   },
   {
+    "id": "p_licia_eminenti",
+    "name": "Licia Eminenti",
+    "path": "data/people/p_licia_eminenti.json"
+  },
+  {
     "id": "p_licia_maglietta",
     "name": "Licia Maglietta",
     "birth_year": 1954,
@@ -25379,6 +25429,11 @@
     "path": "data/people/p_linda_reisman.json"
   },
   {
+    "id": "p_linda_rosenkranz",
+    "name": "Linda Rosenkranz",
+    "path": "data/people/p_linda_rosenkranz.json"
+  },
+  {
     "id": "p_linda_roy",
     "name": "Linda Roy",
     "path": "data/people/p_linda_roy.json"
@@ -26207,6 +26262,11 @@
     "name": "Linsey Godfrey",
     "birth_year": 1988,
     "path": "data/people/p_linsey_godfrey.json"
+  },
+  {
+    "id": "p_linsey_stewart",
+    "name": "Linsey Stewart",
+    "path": "data/people/p_linsey_stewart.json"
   },
   {
     "id": "p_linshan_zhao",
@@ -27576,7 +27636,7 @@
   {
     "id": "p_lisa_loeb",
     "name": "Lisa Loeb",
-    "birth_year": 1968,
+    "birth_year": 1988,
     "path": "data/people/p_lisa_loeb.json"
   },
   {
@@ -28638,7 +28698,7 @@
   {
     "id": "p_little_simz",
     "name": "Little Simz",
-    "birth_year": 1994,
+    "birth_year": 1993,
     "path": "data/people/p_little_simz.json"
   },
   {
@@ -29075,6 +29135,11 @@
     "id": "p_liudmyla_bileka",
     "name": "Liudmyla Bileka",
     "path": "data/people/p_liudmyla_bileka.json"
+  },
+  {
+    "id": "p_liudmyla_havryliuk",
+    "name": "Liudmyla Havryliuk",
+    "path": "data/people/p_liudmyla_havryliuk.json"
   },
   {
     "id": "p_liudmyla_mefodiivna",
@@ -31911,6 +31976,12 @@
     "path": "data/people/p_lorant_deutsch.json"
   },
   {
+    "id": "p_lorant_varga",
+    "name": "Lóránt Varga",
+    "birth_year": 1969,
+    "path": "data/people/p_lorant_varga.json"
+  },
+  {
     "id": "p_lorcan_bonner",
     "name": "Lorcan Bonner",
     "path": "data/people/p_lorcan_bonner.json"
@@ -33236,6 +33307,12 @@
     "name": "Lory Del Santo",
     "birth_year": 1958,
     "path": "data/people/p_lory_del_santo.json"
+  },
+  {
+    "id": "p_lot_vekemans",
+    "name": "Lot Vekemans",
+    "birth_year": 1964,
+    "path": "data/people/p_lot_vekemans.json"
   },
   {
     "id": "p_lota_chukwu",
@@ -36749,6 +36826,12 @@
     "path": "data/people/p_luca_lombardi.json"
   },
   {
+    "id": "p_luca_longobardi",
+    "name": "Luca Longobardi",
+    "birth_year": 1976,
+    "path": "data/people/p_luca_longobardi.json"
+  },
+  {
     "id": "p_luca_lucchesi",
     "name": "Luca Lucchesi",
     "birth_year": 1982,
@@ -39343,6 +39426,12 @@
     "path": "data/people/p_lucio_mad.json"
   },
   {
+    "id": "p_lucio_maia",
+    "name": "Lúcio Maia",
+    "birth_year": 1971,
+    "path": "data/people/p_lucio_maia.json"
+  },
+  {
     "id": "p_lucio_mauro",
     "name": "Lúcio Mauro",
     "birth_year": 1927,
@@ -41760,6 +41849,12 @@
     "path": "data/people/p_luis_miguel_cintra.json"
   },
   {
+    "id": "p_luis_miguel_correia",
+    "name": "Luís Miguel Correia",
+    "birth_year": 1976,
+    "path": "data/people/p_luis_miguel_correia.json"
+  },
+  {
     "id": "p_luis_miguel_segui",
     "name": "Luis Miguel Seguí",
     "birth_year": 1968,
@@ -42209,6 +42304,12 @@
     "name": "Luisa Gavasa Moragón",
     "birth_year": 1951,
     "path": "data/people/p_luisa_gavasa_moragon.json"
+  },
+  {
+    "id": "p_luisa_homem",
+    "name": "Luísa Homem",
+    "birth_year": 1977,
+    "path": "data/people/p_luisa_homem.json"
   },
   {
     "id": "p_luisa_huertas",
@@ -45238,6 +45339,12 @@
     "path": "data/people/p_lydie_solomon.json"
   },
   {
+    "id": "p_lydmor",
+    "name": "Lydmor",
+    "birth_year": 1990,
+    "path": "data/people/p_lydmor.json"
+  },
+  {
     "id": "p_lyece_boukhitine",
     "name": "Lyèce Boukhitine",
     "birth_year": 1964,
@@ -45605,6 +45712,11 @@
     "id": "p_lynn_kennedy",
     "name": "Lynn Kennedy",
     "path": "data/people/p_lynn_kennedy.json"
+  },
+  {
+    "id": "p_lynn_kucharczyk",
+    "name": "Lynn Kucharczyk",
+    "path": "data/people/p_lynn_kucharczyk.json"
   },
   {
     "id": "p_lynn_lowry",
