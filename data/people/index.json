@@ -4982,6 +4982,12 @@
     "path": "data/people/p_laszlo_nemes.json"
   },
   {
+    "id": "p_laszlo_pirisi",
+    "name": "László Pirisi",
+    "birth_year": 1980,
+    "path": "data/people/p_laszlo_pirisi.json"
+  },
+  {
     "id": "p_laszlo_sinko",
     "name": "László Sinkó",
     "birth_year": 1940,
@@ -11559,6 +11565,12 @@
     "path": "data/people/p_lee_hojung.json"
   },
   {
+    "id": "p_lee_holdridge",
+    "name": "Lee Holdridge",
+    "birth_year": 1944,
+    "path": "data/people/p_lee_holdridge.json"
+  },
+  {
     "id": "p_lee_hongchi",
     "name": "Lee Hong-chi",
     "birth_year": 1990,
@@ -15894,6 +15906,12 @@
     "path": "data/people/p_lenny_von_dohlen.json"
   },
   {
+    "id": "p_lenny_williams",
+    "name": "Lenny Williams",
+    "birth_year": 1945,
+    "path": "data/people/p_lenny_williams.json"
+  },
+  {
     "id": "p_lenny_yen_fame",
     "name": "Lenny Yen Fame",
     "birth_year": 1989,
@@ -16046,6 +16064,12 @@
     "id": "p_leo_dyzen",
     "name": "Leo Dyzen",
     "path": "data/people/p_leo_dyzen.json"
+  },
+  {
+    "id": "p_leo_ferre",
+    "name": "Léo Ferré",
+    "birth_year": 1916,
+    "path": "data/people/p_leo_ferre.json"
   },
   {
     "id": "p_leo_fischer",
@@ -18499,6 +18523,12 @@
     "name": "Leslie Bohem",
     "birth_year": 1951,
     "path": "data/people/p_leslie_bohem.json"
+  },
+  {
+    "id": "p_leslie_bricusse",
+    "name": "Leslie Bricusse",
+    "birth_year": 1931,
+    "path": "data/people/p_leslie_bricusse.json"
   },
   {
     "id": "p_leslie_caron",
@@ -24497,6 +24527,12 @@
     "path": "data/people/p_linda_morgenstern.json"
   },
   {
+    "id": "p_linda_morris",
+    "name": "Linda Morris",
+    "birth_year": 1947,
+    "path": "data/people/p_linda_morris.json"
+  },
+  {
     "id": "p_linda_murray",
     "name": "Linda Murray",
     "birth_year": 1976,
@@ -30225,6 +30261,12 @@
     "path": "data/people/p_lokua_kanza.json"
   },
   {
+    "id": "p_lol_tolhurst",
+    "name": "Lol Tolhurst",
+    "birth_year": 1959,
+    "path": "data/people/p_lol_tolhurst.json"
+  },
+  {
     "id": "p_lola",
     "name": "Lola",
     "birth_year": 1976,
@@ -32426,6 +32468,12 @@
     "path": "data/people/p_lotta_tejle.json"
   },
   {
+    "id": "p_lotta_thell",
+    "name": "Lotta Thell",
+    "birth_year": 1967,
+    "path": "data/people/p_lotta_thell.json"
+  },
+  {
     "id": "p_lotta_wenglen",
     "name": "Lotta Wenglén",
     "birth_year": 1971,
@@ -32984,6 +33032,12 @@
     "id": "p_louis_caprioli",
     "name": "Louis Caprioli",
     "path": "data/people/p_louis_caprioli.json"
+  },
+  {
+    "id": "p_louis_caron",
+    "name": "Louis Caron",
+    "birth_year": 1942,
+    "path": "data/people/p_louis_caron.json"
   },
   {
     "id": "p_louis_carriere",
@@ -35372,6 +35426,12 @@
     "id": "p_luca_bueno",
     "name": "Luca Bueno",
     "path": "data/people/p_luca_bueno.json"
+  },
+  {
+    "id": "p_luca_bussoletti",
+    "name": "Luca Bussoletti",
+    "birth_year": 1976,
+    "path": "data/people/p_luca_bussoletti.json"
   },
   {
     "id": "p_luca_calvani",
@@ -38546,6 +38606,12 @@
     "name": "Lucy Love",
     "birth_year": 1985,
     "path": "data/people/p_lucy_love.json"
+  },
+  {
+    "id": "p_lucy_m_boston",
+    "name": "Lucy M. Boston",
+    "birth_year": 1891,
+    "path": "data/people/p_lucy_m_boston.json"
   },
   {
     "id": "p_lucy_martens",
@@ -42537,6 +42603,12 @@
     "name": "Luke Perry",
     "birth_year": 1966,
     "path": "data/people/p_luke_perry.json"
+  },
+  {
+    "id": "p_luke_phillips",
+    "name": "Luke Phillips",
+    "birth_year": 1975,
+    "path": "data/people/p_luke_phillips.json"
   },
   {
     "id": "p_luke_poling",
