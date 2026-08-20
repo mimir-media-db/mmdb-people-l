@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_lada_kastelan",
+  "name": "Lada Kaštelan",
+  "external_ids": {
+    "wikidata": "Q12635209",
+    "imdb": "nm0440939"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
