@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luke_davies",
+  "name": "Luke Davies",
+  "external_ids": {
+    "wikidata": "Q3267059",
+    "imdb": "nm1729294"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
