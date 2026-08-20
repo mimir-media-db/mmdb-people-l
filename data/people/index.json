@@ -4185,6 +4185,12 @@
     "path": "data/people/p_lars_hollmer.json"
   },
   {
+    "id": "p_lars_hubrich",
+    "name": "Lars Hubrich",
+    "birth_year": 1973,
+    "path": "data/people/p_lars_hubrich.json"
+  },
+  {
     "id": "p_lars_hug",
     "name": "Lars H.U.G.",
     "birth_year": 1953,
@@ -6700,6 +6706,12 @@
     "path": "data/people/p_laura_smet.json"
   },
   {
+    "id": "p_laura_solon",
+    "name": "Laura Solon",
+    "birth_year": 1979,
+    "path": "data/people/p_laura_solon.json"
+  },
+  {
     "id": "p_laura_soltis",
     "name": "Laura Soltis",
     "path": "data/people/p_laura_soltis.json"
@@ -8661,6 +8673,12 @@
     "path": "data/people/p_laurent_tuel.json"
   },
   {
+    "id": "p_laurent_turner",
+    "name": "Laurent Turner",
+    "birth_year": 1968,
+    "path": "data/people/p_laurent_turner.json"
+  },
+  {
     "id": "p_laurent_vachaud",
     "name": "Laurent Vachaud",
     "birth_year": 1964,
@@ -10410,6 +10428,12 @@
     "name": "Leah Cairns",
     "birth_year": 1974,
     "path": "data/people/p_leah_cairns.json"
+  },
+  {
+    "id": "p_leah_curtis",
+    "name": "Leah Curtis",
+    "birth_year": 1900,
+    "path": "data/people/p_leah_curtis.json"
   },
   {
     "id": "p_leah_dizon",
@@ -13944,6 +13968,12 @@
     "path": "data/people/p_leena_uotila.json"
   },
   {
+    "id": "p_leena_virtanen",
+    "name": "Leena Virtanen",
+    "birth_year": 1960,
+    "path": "data/people/p_leena_virtanen.json"
+  },
+  {
     "id": "p_leena_yadav",
     "name": "Leena Yadav",
     "birth_year": 1971,
@@ -16395,6 +16425,11 @@
     "path": "data/people/p_leo_lampinen.json"
   },
   {
+    "id": "p_leo_lecours_pelletier",
+    "name": "Léo Lecours Pelletier",
+    "path": "data/people/p_leo_lecours_pelletier.json"
+  },
+  {
     "id": "p_leo_legrand",
     "name": "Léo Legrand",
     "birth_year": 1995,
@@ -16793,6 +16828,12 @@
     "name": "León Ichaso",
     "birth_year": 1948,
     "path": "data/people/p_leon_ichaso.json"
+  },
+  {
+    "id": "p_leon_james",
+    "name": "Leon James",
+    "birth_year": 1991,
+    "path": "data/people/p_leon_james.json"
   },
   {
     "id": "p_leon_jay_williams",
@@ -18298,6 +18339,12 @@
     "name": "Leopold Pape",
     "birth_year": 1992,
     "path": "data/people/p_leopold_pape.json"
+  },
+  {
+    "id": "p_leopold_ross",
+    "name": "Leopold Ross",
+    "birth_year": 1979,
+    "path": "data/people/p_leopold_ross.json"
   },
   {
     "id": "p_leopold_von_buttlar",
@@ -23171,6 +23218,12 @@
     "path": "data/people/p_lillo_brancato.json"
   },
   {
+    "id": "p_lillo_scrimali",
+    "name": "Lillo Scrimali",
+    "birth_year": 1973,
+    "path": "data/people/p_lillo_scrimali.json"
+  },
+  {
     "id": "p_lilly_aspell",
     "name": "Lilly Aspell",
     "birth_year": 2007,
@@ -23750,6 +23803,12 @@
     "name": "Lim Mei Fen",
     "birth_year": 1987,
     "path": "data/people/p_lim_mei_fen.json"
+  },
+  {
+    "id": "p_lim_minju",
+    "name": "Lim Minju",
+    "birth_year": 1987,
+    "path": "data/people/p_lim_minju.json"
   },
   {
     "id": "p_lim_seonggu",
@@ -28739,6 +28798,12 @@
     "id": "p_livia_theuer",
     "name": "Livia Theuer",
     "path": "data/people/p_livia_theuer.json"
+  },
+  {
+    "id": "p_livia_ulman",
+    "name": "Livia Ulman",
+    "birth_year": 1981,
+    "path": "data/people/p_livia_ulman.json"
   },
   {
     "id": "p_livia_ungur",
@@ -41696,6 +41761,12 @@
     "path": "data/people/p_luise_schnittert.json"
   },
   {
+    "id": "p_luise_schroder",
+    "name": "Luise Schröder",
+    "birth_year": 1983,
+    "path": "data/people/p_luise_schroder.json"
+  },
+  {
     "id": "p_luise_skov",
     "name": "Luise Skov",
     "birth_year": 1989,
@@ -42092,6 +42163,12 @@
     "name": "Lukáš Černoch",
     "birth_year": 1988,
     "path": "data/people/p_lukas_cernoch.json"
+  },
+  {
+    "id": "p_lukas_cerny",
+    "name": "Lukáš Černý",
+    "birth_year": 1975,
+    "path": "data/people/p_lukas_cerny.json"
   },
   {
     "id": "p_lukas_cina",
@@ -43696,6 +43773,12 @@
     "path": "data/people/p_lung_leg.json"
   },
   {
+    "id": "p_lung_manhong",
+    "name": "Lung Man-Hong",
+    "birth_year": 1971,
+    "path": "data/people/p_lung_manhong.json"
+  },
+  {
     "id": "p_lung_shaohua",
     "name": "Lung Shao-hua",
     "birth_year": 1953,
@@ -45093,6 +45176,11 @@
     "name": "Lyubomir Neikov",
     "birth_year": 1972,
     "path": "data/people/p_lyubomir_neikov.json"
+  },
+  {
+    "id": "p_lyubomir_tsvetkov",
+    "name": "Lyubomir Tsvetkov",
+    "path": "data/people/p_lyubomir_tsvetkov.json"
   },
   {
     "id": "p_lyubomyr_valivots",
