@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_larry_wilson",
+  "name": "Larry Wilson",
+  "external_ids": {
+    "wikidata": "Q3827175",
+    "imdb": "nm0933733"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948
+}

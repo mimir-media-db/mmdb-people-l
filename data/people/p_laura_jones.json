@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_laura_jones",
+  "name": "Laura Jones",
+  "external_ids": {
+    "wikidata": "Q6499062",
+    "imdb": "nm0428630"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1950
+}
