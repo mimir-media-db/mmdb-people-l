@@ -2337,6 +2337,11 @@
     "path": "data/people/p_lance_kawas.json"
   },
   {
+    "id": "p_lance_khazei",
+    "name": "Lance Khazei",
+    "path": "data/people/p_lance_khazei.json"
+  },
+  {
     "id": "p_lance_kinsey",
     "name": "Lance Kinsey",
     "birth_year": 1954,
@@ -3590,6 +3595,12 @@
     "path": "data/people/p_larry_mccoy.json"
   },
   {
+    "id": "p_larry_mcmurtry",
+    "name": "Larry McMurtry",
+    "birth_year": 1936,
+    "path": "data/people/p_larry_mcmurtry.json"
+  },
+  {
     "id": "p_larry_meistrich",
     "name": "Larry Meistrich",
     "birth_year": 1966,
@@ -3941,6 +3952,12 @@
     "name": "Lars Daniel Krutzkoff Jacobsen",
     "birth_year": 1962,
     "path": "data/people/p_lars_daniel_krutzkoff_jacobsen.json"
+  },
+  {
+    "id": "p_lars_daniel_terkelsen",
+    "name": "Lars Daniel Terkelsen",
+    "birth_year": 1964,
+    "path": "data/people/p_lars_daniel_terkelsen.json"
   },
   {
     "id": "p_lars_dejert",
@@ -8570,6 +8587,11 @@
     "name": "Lauri Linamägi",
     "birth_year": 1978,
     "path": "data/people/p_lauri_linamagi.json"
+  },
+  {
+    "id": "p_lauri_lippmaa",
+    "name": "Lauri Lippmaa",
+    "path": "data/people/p_lauri_lippmaa.json"
   },
   {
     "id": "p_lauri_maijala",
@@ -13227,6 +13249,12 @@
     "path": "data/people/p_lee_wongeun.json"
   },
   {
+    "id": "p_lee_wonjae",
+    "name": "Lee Won-jae",
+    "birth_year": 1958,
+    "path": "data/people/p_lee_wonjae.json"
+  },
+  {
     "id": "p_lee_wonjong",
     "name": "Lee Won-jong",
     "birth_year": 1965,
@@ -15936,6 +15964,12 @@
     "path": "data/people/p_leo_gandelman.json"
   },
   {
+    "id": "p_leo_garcia",
+    "name": "Leo García",
+    "birth_year": 1970,
+    "path": "data/people/p_leo_garcia.json"
+  },
+  {
     "id": "p_leo_grandperret",
     "name": "Léo Grandperret",
     "path": "data/people/p_leo_grandperret.json"
@@ -17478,6 +17512,12 @@
     "path": "data/people/p_leonid_shevchenko.json"
   },
   {
+    "id": "p_leonid_soybelman",
+    "name": "Leonid Soybelman",
+    "birth_year": 1966,
+    "path": "data/people/p_leonid_soybelman.json"
+  },
+  {
     "id": "p_leonid_vasyliev",
     "name": "Leonid Vasyliev",
     "path": "data/people/p_leonid_vasyliev.json"
@@ -17505,6 +17545,12 @@
     "name": "Leonid Yovchev",
     "birth_year": 1983,
     "path": "data/people/p_leonid_yovchev.json"
+  },
+  {
+    "id": "p_leonid_yuzefovich",
+    "name": "Leonid Yuzefovich",
+    "birth_year": 1947,
+    "path": "data/people/p_leonid_yuzefovich.json"
   },
   {
     "id": "p_leonid_zorin",
@@ -22734,6 +22780,12 @@
     "path": "data/people/p_lily_allen.json"
   },
   {
+    "id": "p_lily_ann_martin",
+    "name": "Lily Ann Martin",
+    "birth_year": 1966,
+    "path": "data/people/p_lily_ann_martin.json"
+  },
+  {
     "id": "p_lily_aubry",
     "name": "Lily Aubry",
     "birth_year": 2005,
@@ -25034,6 +25086,12 @@
     "path": "data/people/p_lino_banfi.json"
   },
   {
+    "id": "p_lino_cannavacciuolo",
+    "name": "Lino Cannavacciuolo",
+    "birth_year": 1964,
+    "path": "data/people/p_lino_cannavacciuolo.json"
+  },
+  {
     "id": "p_lino_capolicchio",
     "name": "Lino Capolicchio",
     "birth_year": 1943,
@@ -26605,6 +26663,12 @@
     "path": "data/people/p_lisa_milroy.json"
   },
   {
+    "id": "p_lisa_morton",
+    "name": "Lisa Morton",
+    "birth_year": 1958,
+    "path": "data/people/p_lisa_morton.json"
+  },
+  {
     "id": "p_lisa_mulcahy",
     "name": "Lisa Mulcahy",
     "path": "data/people/p_lisa_mulcahy.json"
@@ -27178,6 +27242,11 @@
     "path": "data/people/p_lise_lotte_lohmann.json"
   },
   {
+    "id": "p_lise_macheboeuf",
+    "name": "Lise Macheboeuf",
+    "path": "data/people/p_lise_macheboeuf.json"
+  },
+  {
     "id": "p_lise_martin",
     "name": "Lise Martin",
     "birth_year": 1952,
@@ -27422,6 +27491,12 @@
     "name": "Lito Lapid",
     "birth_year": 1955,
     "path": "data/people/p_lito_lapid.json"
+  },
+  {
+    "id": "p_lito_vitale",
+    "name": "Lito Vitale",
+    "birth_year": 1961,
+    "path": "data/people/p_lito_vitale.json"
   },
   {
     "id": "p_litten_hansen",
@@ -29146,6 +29221,12 @@
     "path": "data/people/p_lluis_minarro.json"
   },
   {
+    "id": "p_lluis_miquel_campos",
+    "name": "Lluís Miquel Campos",
+    "birth_year": 1944,
+    "path": "data/people/p_lluis_miquel_campos.json"
+  },
+  {
     "id": "p_lluis_quilez",
     "name": "Lluis Quilez",
     "birth_year": 1978,
@@ -29266,6 +29347,12 @@
     "id": "p_lo_politi",
     "name": "Lô Politi",
     "path": "data/people/p_lo_politi.json"
+  },
+  {
+    "id": "p_lo_tayu",
+    "name": "Lo Ta-yu",
+    "birth_year": 1954,
+    "path": "data/people/p_lo_tayu.json"
   },
   {
     "id": "p_loa_ek",
@@ -31412,6 +31499,11 @@
     "path": "data/people/p_loretta_devine.json"
   },
   {
+    "id": "p_loretta_fabiana",
+    "name": "Loretta Fabiana",
+    "path": "data/people/p_loretta_fabiana.json"
+  },
+  {
     "id": "p_loretta_goggi",
     "name": "Loretta Goggi",
     "birth_year": 1950,
@@ -33009,6 +33101,12 @@
     "path": "data/people/p_louis_sclavis.json"
   },
   {
+    "id": "p_louis_siciliano",
+    "name": "Louis Siciliano",
+    "birth_year": 1975,
+    "path": "data/people/p_louis_siciliano.json"
+  },
+  {
     "id": "p_louis_skorecki",
     "name": "Louis Skorecki",
     "birth_year": 1943,
@@ -34200,6 +34298,12 @@
     "path": "data/people/p_lu_zhong.json"
   },
   {
+    "id": "p_lu_zhuguo",
+    "name": "Lu Zhuguo",
+    "birth_year": 1928,
+    "path": "data/people/p_lu_zhuguo.json"
+  },
+  {
     "id": "p_luai_bazerbashi",
     "name": "Luai Bazerbashi",
     "path": "data/people/p_luai_bazerbashi.json"
@@ -35295,6 +35399,12 @@
     "name": "Luca Ragazzi",
     "birth_year": 1971,
     "path": "data/people/p_luca_ragazzi.json"
+  },
+  {
+    "id": "p_luca_rastello",
+    "name": "Luca Rastello",
+    "birth_year": 1961,
+    "path": "data/people/p_luca_rastello.json"
   },
   {
     "id": "p_luca_rea",
@@ -37040,6 +37150,12 @@
     "name": "Lucie Kletvíková",
     "birth_year": 1968,
     "path": "data/people/p_lucie_kletvikova.json"
+  },
+  {
+    "id": "p_lucie_konasova",
+    "name": "Lucie Konášová",
+    "birth_year": 1969,
+    "path": "data/people/p_lucie_konasova.json"
   },
   {
     "id": "p_lucie_korcova",
