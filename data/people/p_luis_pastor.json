@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_pastor",
+  "name": "Luis Pastor",
+  "external_ids": {
+    "wikidata": "Q2354365",
+    "imdb": "nm0975081"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
