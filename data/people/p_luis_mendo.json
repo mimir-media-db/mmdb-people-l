@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_luis_mendo",
+  "name": "Luis Mendo",
+  "external_ids": {
+    "wikidata": "Q15135567",
+    "imdb": "nm0579166"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947
+}
