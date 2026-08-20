@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_leos_janacek",
+  "name": "Leoš Janáček",
+  "external_ids": {
+    "wikidata": "Q184933",
+    "imdb": "nm0418443"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1854,
+  "death_year": 1928
+}
