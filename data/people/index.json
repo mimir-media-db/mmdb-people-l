@@ -1734,6 +1734,11 @@
     "path": "data/people/p_lali_kiknavelidze.json"
   },
   {
+    "id": "p_lalil_kittitanaphan",
+    "name": "Lalil Kittitanaphan",
+    "path": "data/people/p_lalil_kittitanaphan.json"
+  },
+  {
     "id": "p_lalit_behl",
     "name": "Lalit Behl",
     "birth_year": 1948,
@@ -8458,7 +8463,7 @@
   {
     "id": "p_laurent_lacotte",
     "name": "Laurent Lacotte",
-    "birth_year": 1953,
+    "birth_year": 1952,
     "path": "data/people/p_laurent_lacotte.json"
   },
   {
@@ -8688,6 +8693,11 @@
     "id": "p_laurent_sardi",
     "name": "Laurent Sardi",
     "path": "data/people/p_laurent_sardi.json"
+  },
+  {
+    "id": "p_laurent_sarfati",
+    "name": "Laurent Sarfati",
+    "path": "data/people/p_laurent_sarfati.json"
   },
   {
     "id": "p_laurent_sauvagnac",
@@ -9189,6 +9199,11 @@
     "id": "p_laurindo_papenberg",
     "name": "Laurindo Papenberg",
     "path": "data/people/p_laurindo_papenberg.json"
+  },
+  {
+    "id": "p_laurine_bauby",
+    "name": "Laurine Bauby",
+    "path": "data/people/p_laurine_bauby.json"
   },
   {
     "id": "p_laurine_price",
@@ -10540,6 +10555,11 @@
     "path": "data/people/p_leading_li.json"
   },
   {
+    "id": "p_leafcuts",
+    "name": "Leafcuts",
+    "path": "data/people/p_leafcuts.json"
+  },
+  {
     "id": "p_leafs",
     "name": "Leafs",
     "birth_year": 2001,
@@ -10755,6 +10775,12 @@
     "name": "Leander Paes",
     "birth_year": 1973,
     "path": "data/people/p_leander_paes.json"
+  },
+  {
+    "id": "p_leander_verdievel",
+    "name": "Leander Verdievel",
+    "birth_year": 1980,
+    "path": "data/people/p_leander_verdievel.json"
   },
   {
     "id": "p_leander_ward_6th_earl_of_dudley",
@@ -13117,6 +13143,7 @@
   {
     "id": "p_lee_sangyong",
     "name": "Lee Sang-yong",
+    "birth_year": 1979,
     "path": "data/people/p_lee_sangyong.json"
   },
   {
@@ -13267,7 +13294,7 @@
   {
     "id": "p_lee_seungjun",
     "name": "Lee Seung-jun",
-    "birth_year": 1970,
+    "birth_year": 1973,
     "path": "data/people/p_lee_seungjun.json"
   },
   {
@@ -13315,6 +13342,11 @@
     "id": "p_lee_shaochieh",
     "name": "Lee Shao-chieh",
     "path": "data/people/p_lee_shaochieh.json"
+  },
+  {
+    "id": "p_lee_shinji",
+    "name": "Lee Shin-ji",
+    "path": "data/people/p_lee_shinji.json"
   },
   {
     "id": "p_lee_shinseong",
@@ -14488,6 +14520,11 @@
     "path": "data/people/p_leigh_christian.json"
   },
   {
+    "id": "p_leigh_davenport",
+    "name": "Leigh Davenport",
+    "path": "data/people/p_leigh_davenport.json"
+  },
+  {
     "id": "p_leigh_dunlap",
     "name": "Leigh Dunlap",
     "path": "data/people/p_leigh_dunlap.json"
@@ -14898,6 +14935,11 @@
     "name": "Lekha Washington",
     "birth_year": 1984,
     "path": "data/people/p_lekha_washington.json"
+  },
+  {
+    "id": "p_leki_jackson_bourke",
+    "name": "Leki Jackson Bourke",
+    "path": "data/people/p_leki_jackson_bourke.json"
   },
   {
     "id": "p_lela_loren",
@@ -15389,6 +15431,12 @@
     "name": "Lena Lindewall",
     "birth_year": 1955,
     "path": "data/people/p_lena_lindewall.json"
+  },
+  {
+    "id": "p_lena_may_graf",
+    "name": "Lena May Graf",
+    "birth_year": 1986,
+    "path": "data/people/p_lena_may_graf.json"
   },
   {
     "id": "p_lena_meckel",
@@ -17423,6 +17471,12 @@
     "path": "data/people/p_leonard_knight.json"
   },
   {
+    "id": "p_leonard_kuner",
+    "name": "Leonard Küßner",
+    "birth_year": 1993,
+    "path": "data/people/p_leonard_kuner.json"
+  },
+  {
     "id": "p_leonard_kunz",
     "name": "Leonard Kunz",
     "birth_year": 1991,
@@ -18910,7 +18964,7 @@
   {
     "id": "p_lesley_barber",
     "name": "Lesley Barber",
-    "birth_year": 1961,
+    "birth_year": 1968,
     "path": "data/people/p_lesley_barber.json"
   },
   {
@@ -19441,7 +19495,14 @@
   {
     "id": "p_lesya_kalynska",
     "name": "Lesya Kalynska",
+    "birth_year": 1971,
     "path": "data/people/p_lesya_kalynska.json"
+  },
+  {
+    "id": "p_lesya_ukrainka",
+    "name": "Lesya Ukrainka",
+    "birth_year": 1871,
+    "path": "data/people/p_lesya_ukrainka.json"
   },
   {
     "id": "p_lesya_voynevych",
@@ -21162,6 +21223,11 @@
     "name": "Lia McHugh",
     "birth_year": 2005,
     "path": "data/people/p_lia_mchugh.json"
+  },
+  {
+    "id": "p_lia_ouyang_rusli",
+    "name": "Lia Ouyang Rusli",
+    "path": "data/people/p_lia_ouyang_rusli.json"
   },
   {
     "id": "p_lia_pokorny",
@@ -23946,6 +24012,11 @@
     "path": "data/people/p_lilyrose_loyer.json"
   },
   {
+    "id": "p_lim_boon_siang",
+    "name": "Lim Boon Siang",
+    "path": "data/people/p_lim_boon_siang.json"
+  },
+  {
     "id": "p_lim_chulhyung",
     "name": "Lim Chul-hyung",
     "birth_year": 1974,
@@ -26250,7 +26321,7 @@
   },
   {
     "id": "p_lio_mehiel",
-    "name": "Lio Mehiel",
+    "name": "Lío Mehiel",
     "path": "data/people/p_lio_mehiel.json"
   },
   {
@@ -26258,6 +26329,11 @@
     "name": "Lio Tipton",
     "birth_year": 1988,
     "path": "data/people/p_lio_tipton.json"
+  },
+  {
+    "id": "p_lio_vancauwenberge",
+    "name": "Lio Vancauwenberge",
+    "path": "data/people/p_lio_vancauwenberge.json"
   },
   {
     "id": "p_lion_bischof",
@@ -28963,6 +29039,11 @@
     "path": "data/people/p_liudmyla_mefodiivna.json"
   },
   {
+    "id": "p_liudmyla_tymoshenko",
+    "name": "Liudmyla Tymoshenko",
+    "path": "data/people/p_liudmyla_tymoshenko.json"
+  },
+  {
     "id": "p_liv_alsterlund",
     "name": "Liv Alsterlund",
     "birth_year": 1971,
@@ -31150,6 +31231,11 @@
     "name": "Lola Créton",
     "birth_year": 1993,
     "path": "data/people/p_lola_creton.json"
+  },
+  {
+    "id": "p_lola_de_la_mata",
+    "name": "Lola de la Mata",
+    "path": "data/people/p_lola_de_la_mata.json"
   },
   {
     "id": "p_lola_dewaere",
@@ -36391,6 +36477,12 @@
     "path": "data/people/p_luca_capuano.json"
   },
   {
+    "id": "p_luca_chiaravalli",
+    "name": "Luca Chiaravalli",
+    "birth_year": 1971,
+    "path": "data/people/p_luca_chiaravalli.json"
+  },
+  {
     "id": "p_luca_chikovani",
     "name": "Luca Chikovani",
     "birth_year": 1994,
@@ -36956,6 +37048,12 @@
     "name": "Lucas Cruikshank",
     "birth_year": 1993,
     "path": "data/people/p_lucas_cruikshank.json"
+  },
+  {
+    "id": "p_lucas_de_waard",
+    "name": "Lucas de Waard",
+    "birth_year": 1983,
+    "path": "data/people/p_lucas_de_waard.json"
   },
   {
     "id": "p_lucas_distefano",
@@ -41081,7 +41179,7 @@
   {
     "id": "p_luis_cintora",
     "name": "Luis Cintora",
-    "birth_year": 1976,
+    "birth_year": 1975,
     "path": "data/people/p_luis_cintora.json"
   },
   {
@@ -41656,7 +41754,7 @@
   {
     "id": "p_luis_oliva",
     "name": "Luis Oliva",
-    "birth_year": 1976,
+    "birth_year": 1951,
     "path": "data/people/p_luis_oliva.json"
   },
   {
@@ -43739,6 +43837,11 @@
     "path": "data/people/p_luke_omalley.json"
   },
   {
+    "id": "p_luke_paradise",
+    "name": "Luke Paradise",
+    "path": "data/people/p_luke_paradise.json"
+  },
+  {
     "id": "p_luke_pasqualino",
     "name": "Luke Pasqualino",
     "birth_year": 1989,
@@ -44947,7 +45050,7 @@
   {
     "id": "p_lydia_leonard",
     "name": "Lydia Leonard",
-    "birth_year": 1980,
+    "birth_year": 1981,
     "path": "data/people/p_lydia_leonard.json"
   },
   {
