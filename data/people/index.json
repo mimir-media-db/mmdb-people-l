@@ -34723,7 +34723,7 @@
   {
     "id": "p_louisa_harland",
     "name": "Louisa Harland",
-    "birth_year": 1994,
+    "birth_year": 1993,
     "path": "data/people/p_louisa_harland.json"
   },
   {
@@ -42370,6 +42370,11 @@
     "name": "Luisa D'Oliveira",
     "birth_year": 1986,
     "path": "data/people/p_luisa_doliveira.json"
+  },
+  {
+    "id": "p_luisa_garcia_alva",
+    "name": "Luisa García Alva",
+    "path": "data/people/p_luisa_garcia_alva.json"
   },
   {
     "id": "p_luisa_gavasa_moragon",
